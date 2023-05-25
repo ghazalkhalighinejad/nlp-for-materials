@@ -1,0 +1,143 @@
+﻿Here is an example of the description of a material science paper and a table that consists of information about Polymer Nanocomposite.
+
+
+Description: {“title": "Morphology and electrical resistivity of melt mixed blends of polyethylene and carbon nanotube filled polycarbonate", "abstract": "Blends were prepared from a high density polyethylene (PE) material and a conductive polycarbonate (PC) composite containing multiwalled carbon nanotubes (MWNT). The PC composite contained 2wt% MWNT and was prepared by diluting a PC masterbatch consisting of 15wt% MWNT by melt mixing in an extruder. The aim of blending a conductive PC composite with PE was to obtain a conductive blend at lower amounts of MWNT than required for the pure PC component. The blend morphology was found to be co-continuous over a broad composition range of 30\u201380vol.% of the filled PC phase as verified by selective extraction of PC and morphological investigations. The co-continuous structure is very fine with ligaments in the range of 1 \u03bcm. Significantly reduced volume resistivity values, i.e. in the range of 107\n                     \u03a9cm, could be achieved in the same composition range of that of the continuous PC phase, i.e. starting at compositions of 30vol.% filled PC. Here, the total MWNT content in the blend was only 0.41vol.%. Interestingly, even if the MWNT had been incorporated in the PC phase, the tubes are still visible in the blends after selective extraction of PC. Scanning electron microscopy investigations revealed that the MWNT bridge the PC and PE phases, at least with their ends. This can be understood by the length dimensions of the tubes, which is higher than the phase sizes in the blends."}
+
+Table: {
+    "PolymerNanocomposite": {
+        "MATERIALS": {
+            "Matrix": {
+                "MatrixComponent": {
+                    "ChemicalName": "polyethylene",
+                    "Abbreviation": "PE",
+                    "ConstitutionalUnit": "C2H4",
+                    "PlasticType": "thermoplastic",
+                    "PolymerType": "homopolymer",
+                    "ManufacturerName": "BASF AG, Germany",
+                    "TradeName": "Lupolen 4261A"
+                }
+            },
+            "Filler": {
+                "FillerComponent": [
+                    {
+                        "ChemicalName": "polycarbonate",
+                        "Abbreviation": "PC",
+                        "ManufacturerName": "Mitsubishi Engineering Plastics",
+                        "TradeName": "Iupilon E-2000"
+                    },
+                    {
+                        "ChemicalName": "multi-wall carbon nanotube",
+                        "Abbreviation": "MWNT",
+                        "ManufacturerName": "Hyperion Catalysis International, Inc.",
+                        "FillerComponentComposition": {
+                            "mass": "0.02"
+                        }
+                    }
+                ],
+                "FillerProcessing": {
+                    "ChooseParameter": {
+                        "Extrusion": {
+                            "TwinScrewExtrusion": {
+                                "Extruder": "Haake",
+                                "RotationMode": "CoRotation",
+                                "ScrewDiameter": {
+                                    "value": "30",
+                                    "unit": "mm"
+                                },
+                                "D_L_ratio": "10"
+                            }
+                        }
+                    }
+                },
+                "FillerComposition": {
+                    "volume": "0.8"
+                }
+            }
+        },
+        "PROCESSING": {
+            "MeltMixing": {
+                "ChooseParameter": {
+                    "Mixing": {
+                        "Mixer": "DACA Micro Compounder",
+                        "RPM": {
+                            "value": "50"
+                        },
+                        "Time": {
+                            "value": "5",
+                            "unit": "minutes"
+                        },
+                        "Temperature": {
+                            "value": "260",
+                            "unit": "Celsius"
+                        }
+                    }
+                }
+            }
+        },
+        "CHARACTERIZATION": {
+            "Scanning_Electron_Microscopy": [
+                {
+                    "EquipmentUsed": "LEO VP 435",
+                    "Description": "coated samples"
+                },
+                {
+                    "EquipmentUsed": "Zeiss Gemini DSM 982",
+                    "Description": "uncoated samples"
+                }
+            ],
+            "Atomic_Force_Microscopy": {
+                "Equipment": "Dimension 3100 NanoScope IV"
+            },
+            "Rheometery": {
+                "RheometerType": "null",
+                "Equipment": "ARES oscillatory rheometer"
+            },
+            "Electrometry": {
+                "Equipment": "Keithley electrometer Model 6517 equipped with a 8002A High Resistance Test Fixture"
+            }
+        },
+        "PROPERTIES": {
+            "Electrical": {
+                "VolumeResistivity": {
+                    "Type": "DC",
+                    "Value": {
+                        "FixedValue": {
+                            "value": {
+                                "value": "20000000",
+                                "unit": "Ohm*cm"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "MICROSTRUCTURE": {
+            "LengthUnit": "micrometer",
+            "ImageFile": [
+                {
+                    "File": "http://localhost/nmr/blob?id=583e3aa4e74a1d205f4e3a82",
+                    "Description": "cryofractured extracted strands",
+                    "MicroscopyType": "SEM",
+                    "Type": "grayscale",
+                    "Dimension": {
+                        "width": "40",
+                        "height": "30"
+                    }
+                },
+                {
+                    "File": "http://localhost/nmr/blob?id=583e3ab2e74a1d205f4e3a91",
+                    "Description": "cryofractured extracted strands showing nanotube bridging of PE and PC",
+                    "MicroscopyType": "SEM",
+                    "Type": "grayscale",
+                    "Dimension": {
+                        "width": "22.4",
+                        "height": "15.5"
+                    }
+                }
+            ]
+        }
+    }
+}
+Please give me a table in json format for the following paper:
+
+Description: {"title": "Bulk transparent epoxy nanocomposites filled with poly(glycidyl methacrylate) brush-grafted TiO2 nanoparticles", "abstract": "Poly(glycidyl methacrylate) polymer brushes were grafted onto TiO2 nanoparticle surfaces <i>via</i> a combination of phosphate ligand engineering and Cu-catalyzed alkyne-azide \u201cclick\u201d reaction. The grafted TiO2 nanoparticles are compatible with a commercial epoxy resin enabling the preparation of thick (1\u00a0mm) transparent high-refractive index TiO2/epoxy nanocomposites. In order to maximize the volumetric loading and thereby the refractive index of nanocomposites, the minimum graft densities that can lead to high optical transparency were identified. It was found that, when the graft density was too low to form polymer brushes, the dispersion of the grafted particles changed from a dispersed state to an agglomerated state. The transition of the dispersion state was in good agreement with the theoretical prediction from a parametric model. This good agreement will facilitate the design and fabrication of transparent polymer nanocomposites filled with grafted nanoparticles. With 30\u00a0wt% loading of TiO2 nanoparticles, the refractive index of TiO2/epoxy nanocomposites increased from 1.5 for neat epoxy to 1.62. The transparency of the prepared nanocomposites can be well predicted by the Raleigh scattering model."}
