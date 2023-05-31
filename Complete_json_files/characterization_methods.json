@@ -1,0 +1,1425 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[5,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[5,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[6,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[6,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Magnification": {
+                "Description": {
+                    "value": "4. Characterization Methods|[7,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[7,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[7,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[7,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Transmission_electron_microscopy::Magnification::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[7,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[7,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[7,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Accelerating voltage": {
+                "Description": {
+                    "value": "4. Characterization Methods|[8,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[8,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[8,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[8,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Transmission_electron_microscopy::Accelerating_voltage::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[8,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[8,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[8,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Emission current": {
+                "Description": {
+                    "value": "4. Characterization Methods|[9,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[9,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[9,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[9,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Transmission_electron_microscopy::Emission_current::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[9,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[9,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[9,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Working distance": {
+                "Description": {
+                    "value": "4. Characterization Methods|[10,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[10,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[10,3]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Transmission_electron_microscopy::Working_distance::Unit"
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[10,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Transmission_electron_microscopy::Working_distance::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[10,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[10,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Exposure time": {
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[11,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[11,3]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Transmission_electron_microscopy::Exposure_time::Unit"
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[11,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Transmission_electron_microscopy::Exposure_time::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[11,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[11,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[11,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Scanning electron microscopy": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[14,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[14,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[15,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[15,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Magnification": {
+                "Description": {
+                    "value": "4. Characterization Methods|[16,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[16,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[16,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[16,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Scanning_electron_microscopy::Magnification::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[16,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[16,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[16,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Accelerating voltage": {
+                "Description": {
+                    "value": "4. Characterization Methods|[17,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[17,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[17,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[17,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Scanning_electron_microscopy::Accelerating_voltage::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[17,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[17,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[17,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Emission current": {
+                "Description": {
+                    "value": "4. Characterization Methods|[18,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[18,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[18,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[18,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Scanning_electron_microscopy::Emission_current::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[18,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[18,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[18,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Working distance": {
+                "Description": {
+                    "value": "4. Characterization Methods|[19,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[19,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[19,3]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Scanning_electron_microscopy::Working_distance::Unit"
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[19,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Scanning_electron_microscopy::Working_distance::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[19,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[19,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Exposure time": {
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[20,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[20,3]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Scanning_electron_microscopy::Exposure_time::Unit"
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[20,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Scanning_electron_microscopy::Exposure_time::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[20,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[20,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[20,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Atomic force microscopy": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[23,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[23,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[24,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[24,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[25,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[25,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[25,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[25,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Atomic_force_microscopy::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[25,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[25,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[25,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Optical microscopy": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[28,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[28,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[29,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[29,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[30,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[30,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[30,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[30,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Microscopy::Optical_microscopy::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[30,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[30,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[30,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        }
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[34,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[34,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[35,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[35,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[36,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[36,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[36,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[36,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Spectroscopy::Fourier_transform_infrared_spectroscopy::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[36,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[36,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[36,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Dielectric and impedance spectroscopy analysis": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[39,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[39,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[40,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[40,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[41,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[41,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[41,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[41,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Spectroscopy::Dielectric_and_impedance_spectroscopy_analysis::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[41,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[41,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[41,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Raman spectroscopy": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[44,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[44,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[45,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[45,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data (fixed value, unit)": {
+                "Description": {
+                    "value": "4. Characterization Methods|[46,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[46,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[46,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[46,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Spectroscopy::Raman_spectroscopy::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[46,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[46,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[46,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Xray photoelectron spectroscopy": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[49,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[49,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[50,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[50,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data (fixed value, unit)": {
+                "Description": {
+                    "value": "4. Characterization Methods|[51,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[51,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[51,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[51,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Spectroscopy::Xray_photoelectron_spectroscopy::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[51,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[51,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[51,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Nuclear magnetic resonance": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[54,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[54,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[55,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[55,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data (fixed value, unit)": {
+                "Description": {
+                    "value": "4. Characterization Methods|[56,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[56,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[56,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[56,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Spectroscopy::Nuclear_magnetic_resonance::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[56,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[56,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[56,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[60,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[60,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[61,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[61,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Heating rate": {
+                "Description": {
+                    "value": "4. Characterization Methods|[62,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[62,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[62,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[62,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Thermochemical::Differential_scanning_calorimetry::Heating_rate::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[62,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[62,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[62,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Cooling rate": {
+                "Description": {
+                    "value": "4. Characterization Methods|[63,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[63,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[63,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[63,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Thermochemical::Differential_scanning_calorimetry::Cooling_rate::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[63,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[63,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[63,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Cycle information": {
+                "Description": {
+                    "value": "4. Characterization Methods|[64,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[64,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[65,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[65,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[65,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[65,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Thermochemical::Differential_scanning_calorimetry::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[65,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[65,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[65,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Thermogravimetric analysis": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[68,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[68,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[69,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[69,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[70,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[70,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[70,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[70,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Thermochemical::Thermogravimetric_analysis::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[70,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[70,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[70,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Dynamic mechanical analysis": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[73,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[73,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[74,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[74,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[75,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[75,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[75,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[75,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Thermochemical::Dynamic_mechanical_analysis::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[75,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[75,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[75,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[79,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[79,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[80,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[80,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[81,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[81,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[81,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[81,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Scattering_and_diffraction::Xray_diffraction_and_scattering::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[81,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[81,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[81,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        }
+    },
+    "Others": {
+        "Pulsed electro acoustic": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[85,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[85,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[86,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[86,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[87,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[87,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[87,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[87,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Others::Pulsed_electro_acoustic::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[87,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[87,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[87,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Rheometry": {
+            "Rheometer type": {
+                "Description": {
+                    "value": "4. Characterization Methods|[90,1]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Others::Rheometry::Rheometer_type::Description"
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[90,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[91,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[91,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Capillary size": {
+                "Description": {
+                    "value": "4. Characterization Methods|[92,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[92,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[93,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[93,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[93,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[93,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Others::Rheometry::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[93,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[93,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[93,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Electrometry": {
+            "Equipment used": {
+                "Description": {
+                    "value": "4. Characterization Methods|[96,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[96,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Equipment description": {
+                "Description": {
+                    "value": "4. Characterization Methods|[97,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[97,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Result data": {
+                "Description": {
+                    "value": "4. Characterization Methods|[98,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "4. Characterization Methods|[98,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "4. Characterization Methods|[98,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "4. Characterization Methods|[98,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Characterization_Methods::Others::Electrometry::Result_data::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "4. Characterization Methods|[98,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "4. Characterization Methods|[98,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "4. Characterization Methods|[98,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        }
+    }
+}
