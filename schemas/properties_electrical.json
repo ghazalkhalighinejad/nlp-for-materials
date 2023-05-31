@@ -1,0 +1,499 @@
+{
+    "Electrical": {
+        "Conductivity": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[4,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[4,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[4,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[4,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[4,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Current density": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[5,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[5,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[5,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[5,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[5,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Energy density": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[6,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[6,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[6,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[6,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[6,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Surface resistivity": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[7,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[7,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[7,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[7,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[7,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Volume resistivity": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[8,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[8,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[8,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[8,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[8,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Arc resistance": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[9,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[9,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[9,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[9,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[9,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Impedance": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[10,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[10,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[10,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[10,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[10,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Percolation threshold": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[11,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[11,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[11,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[11,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[11,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "DC dielectric constant": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[12,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[12,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[12,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[12,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[12,5]",
+                "type": "String",
+                "required": false
+            }
+        }
+    },
+    "AC dielectric dispersion #": {
+        "Description": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[15,1]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[15,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Dependence": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[16,1]",
+                "type": "List",
+                "required": false,
+                "validList": "AC_dielectric_dispersion_#::Dependence::Description/Condition"
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[16,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Test Conditions - Temperature": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[17,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[17,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[17,3]",
+                "type": "List",
+                "required": false,
+                "validList": "AC_dielectric_dispersion_#::Test_Conditions_-_Temperature::Unit"
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[17,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[17,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Test Conditions - Frequency": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[18,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[18,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[18,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[18,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[18,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Real permittivity": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[19,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[19,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[19,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[19,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[19,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Loss permittivity": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[20,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[20,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[20,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[20,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[20,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Loss tangent": {
+            "Description/Condition": {
+                "value": "5.3 Properties-Electrical|[21,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[21,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[21,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[21,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[21,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Dielectric breakdown strength": {
+            "Condition": {
+                "value": "5.3 Properties-Electrical|[24,1]",
+                "type": "List",
+                "required": false,
+                "validList": "AC_dielectric_dispersion_#::Dielectric_breakdown_strength::Condition"
+            },
+            "Fixed Value": {
+                "value": "5.3 Properties-Electrical|[24,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.3 Properties-Electrical|[24,3]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[24,4]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[24,5]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Weibull plot": {
+            "Description": {
+                "value": "5.3 Properties-Electrical|[26,1]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.3 Properties-Electrical|[26,2]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.3 Properties-Electrical|[26,3]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Weibull parameter - scale": {
+            "type": "multiples",
+            "values": [
+                {
+                    "Fixed Value": {
+                        "value": "5.3 Properties-Electrical|[29,1]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Unit": {
+                        "value": "5.3 Properties-Electrical|[29,2]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Note": {
+                        "value": "5.3 Properties-Electrical|[29,3]",
+                        "type": "String",
+                        "required": false
+                    }
+                }
+            ]
+        },
+        "Weibull parameter - shape": {
+            "type": "multiples",
+            "values": [
+                {
+                    "Fixed Value": {
+                        "value": "5.3 Properties-Electrical|[29,1]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Unit": {
+                        "value": "5.3 Properties-Electrical|[29,2]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Note": {
+                        "value": "5.3 Properties-Electrical|[29,3]",
+                        "type": "String",
+                        "required": false
+                    }
+                }
+            ]
+        }
+    }
+}

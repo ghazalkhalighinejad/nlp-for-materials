@@ -1,0 +1,163 @@
+{
+    "Imagefile": {
+        "type": "multiples",
+        "values": [
+            {
+                "Microstructure filename": {
+                    "Datafile name.jpg/png/tif/gif": {
+                        "value": "6. Microstructure|[4,1]",
+                        "type": "File",
+                        "validTypes": [
+                            "jpg",
+                            "png",
+                            "gif"
+                        ]
+                    },
+                    "Note": {
+                        "value": "6. Microstructure|[4,2]",
+                        "type": "String",
+                        "required": false
+                    }
+                },
+                "Description": {
+                    "Datafile": {
+                        "value": "6. Microstructure|[5,1]",
+                        "type": "String"
+                    },
+                    "Note": {
+                        "value": "6. Microstructure|[5,2]",
+                        "type": "String",
+                        "required": false
+                    }
+                },
+                "Microscopy type": {
+                    "Datafile": {
+                        "value": "6. Microstructure|[6,1]",
+                        "type": "List",
+                        "required": false,
+                        "validList": "Imagefile::Microscopy_type::Datafile"
+                    },
+                    "Note": {
+                        "value": "6. Microstructure|[6,2]",
+                        "type": "String",
+                        "required": false
+                    }
+                },
+                "Image type": {
+                    "Datafile": {
+                        "value": "6. Microstructure|[7,1]",
+                        "type": "List",
+                        "required": false,
+                        "validList": "Imagefile::Image_type::Datafile"
+                    },
+                    "Note": {
+                        "value": "6. Microstructure|[7,2]",
+                        "type": "String",
+                        "required": false
+                    }
+                }
+            }
+        ]
+    },
+    "Image dimension": {
+        "Width": {
+            "Fixed Value": {
+                "value": "6. Microstructure|[10,1]",
+                "type": "String"
+            },
+            "Unit": {
+                "value": "6. Microstructure|[10,2]",
+                "type": "String",
+                "default": "pixel"
+            },
+            "Note": {
+                "value": "6. Microstructure|[10,3]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Height": {
+            "Fixed Value": {
+                "value": "6. Microstructure|[11,1]",
+                "type": "String"
+            },
+            "Unit": {
+                "value": "6. Microstructure|[11,2]",
+                "type": "String",
+                "default": "pixel"
+            },
+            "Note": {
+                "value": "6. Microstructure|[11,3]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Depth": {
+            "Fixed Value": {
+                "value": "6. Microstructure|[12,1]",
+                "type": "String"
+            },
+            "Unit": {
+                "value": "6. Microstructure|[12,2]",
+                "type": "String",
+                "default": "bit"
+            },
+            "Note": {
+                "value": "6. Microstructure|[12,3]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Preprocessing": {
+            "Fixed Value": {
+                "value": "6. Microstructure|[13,1]",
+                "type": "String"
+            },
+            "Unit": {
+                "value": "6. Microstructure|[13,2]",
+                "type": "String"
+            },
+            "Note": {
+                "value": "6. Microstructure|[13,3]",
+                "type": "String",
+                "required": false
+            }
+        }
+    },
+    "Sample experimental info": {
+        "Sample size": {
+            "Fixed Value": {
+                "value": "6. Microstructure|[16,1]",
+                "type": "String"
+            },
+            "Unit": {
+                "value": "6. Microstructure|[16,2]",
+                "type": "List",
+                "required": false,
+                "validList": "Sample_experimental_info::Sample_size::Unit"
+            },
+            "Note": {
+                "value": "6. Microstructure|[16,3]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Sample thickness": {
+            "Fixed Value": {
+                "value": "6. Microstructure|[17,1]",
+                "type": "String"
+            },
+            "Unit": {
+                "value": "6. Microstructure|[17,2]",
+                "type": "List",
+                "required": false,
+                "validList": "Sample_experimental_info::Sample_thickness::Unit"
+            },
+            "Note": {
+                "value": "6. Microstructure|[17,3]",
+                "type": "String",
+                "required": false
+            }
+        }
+    }
+}
