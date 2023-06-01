@@ -1,0 +1,30 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {},
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {},
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}
+
+Note: Based on the information provided in the paper, these are the possible characterization techniques that were used for the materials analysis. However, the specific techniques used were not explicitly mentioned.
