@@ -1,0 +1,672 @@
+
+{
+    "Thermal": {
+        "DSC profile": {
+            "type": "multiples",
+            "values": [
+                {
+                    "Datafile": {
+                        "value": "5.4 Properties-Thermal|[5,1]",
+                        "type": "String",
+                        "required": false
+                    }
+                }
+            ]
+        },
+        "Measurement Method": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[8,1]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[8,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Crystallinity": {
+            "Degree of crystallization": {
+                "Description": {
+                    "value": "5.4 Properties-Thermal|[11,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "5.4 Properties-Thermal|[11,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "5.4 Properties-Thermal|[11,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Growth rate of crystal": {
+                "Description": {
+                    "value": "5.4 Properties-Thermal|[12,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "5.4 Properties-Thermal|[12,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "5.4 Properties-Thermal|[12,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "5.4 Properties-Thermal|[12,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Thermal::Crystallinity::Growth_rate_of_crystal::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "5.4 Properties-Thermal|[12,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "5.4 Properties-Thermal|[12,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "5.4 Properties-Thermal|[12,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Growth rate parameter of Avrami Equation": {
+                "Description": {
+                    "value": "5.4 Properties-Thermal|[13,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "5.4 Properties-Thermal|[13,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "5.4 Properties-Thermal|[13,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "5.4 Properties-Thermal|[13,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Thermal::Crystallinity::Growth_rate_parameter_of_Avrami_Equation::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "5.4 Properties-Thermal|[13,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "5.4 Properties-Thermal|[13,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "5.4 Properties-Thermal|[13,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Nucleation parameter of Avrami Equation": {
+                "Description": {
+                    "value": "5.4 Properties-Thermal|[14,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "5.4 Properties-Thermal|[14,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "5.4 Properties-Thermal|[14,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "5.4 Properties-Thermal|[14,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Thermal::Crystallinity::Nucleation_parameter_of_Avrami_Equation::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "5.4 Properties-Thermal|[14,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "5.4 Properties-Thermal|[14,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "5.4 Properties-Thermal|[14,7]",
+                    "type": "String",
+                    "required": false
+                }
+            },
+            "Half life of crystallization": {
+                "Description": {
+                    "value": "5.4 Properties-Thermal|[15,1]",
+                    "type": "String",
+                    "required": false
+                },
+                "Fixed Value": {
+                    "value": "5.4 Properties-Thermal|[15,2]",
+                    "type": "String",
+                    "required": false
+                },
+                "Unit": {
+                    "value": "5.4 Properties-Thermal|[15,3]",
+                    "type": "String",
+                    "required": false
+                },
+                "Uncertainty Type": {
+                    "value": "5.4 Properties-Thermal|[15,4]",
+                    "type": "List",
+                    "required": false,
+                    "validList": "Thermal::Crystallinity::Half_life_of_crystallization::Uncertainty_Type"
+                },
+                "Uncertainty Value": {
+                    "value": "5.4 Properties-Thermal|[15,5]",
+                    "type": "String",
+                    "required": false
+                },
+                "Datafile": {
+                    "value": "5.4 Properties-Thermal|[15,6]",
+                    "type": "String",
+                    "required": false
+                },
+                "Note": {
+                    "value": "5.4 Properties-Thermal|[15,7]",
+                    "type": "String",
+                    "required": false
+                }
+            }
+        },
+        "Crystallization temperature": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[17,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[17,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[17,3]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Crystallization_temperature::Unit"
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[17,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Crystallization_temperature::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[17,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[17,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[17,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Heat of crystallization": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[19,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[19,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[19,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[19,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Heat_of_crystallization::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[19,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[19,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[19,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Heat of fusion": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[21,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[21,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[21,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[21,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Heat_of_fusion::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[21,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[21,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[21,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Thermal decomposition temperature": {
+            "type": "multiples",
+            "values": [
+                {
+                    "Description": {
+                        "value": "5.4 Properties-Thermal|[23,1]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Fixed Value": {
+                        "value": "5.4 Properties-Thermal|[23,2]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Unit": {
+                        "value": "5.4 Properties-Thermal|[23,3]",
+                        "type": "List",
+                        "required": false,
+                        "validList": "Thermal::Thermal_decomposition_temperature_#::Unit"
+                    },
+                    "Uncertainty Type": {
+                        "value": "5.4 Properties-Thermal|[23,4]",
+                        "type": "List",
+                        "required": false,
+                        "validList": "Thermal::Thermal_decomposition_temperature_#::Uncertainty_Type"
+                    },
+                    "Uncertainty Value": {
+                        "value": "5.4 Properties-Thermal|[23,5]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Datafile": {
+                        "value": "5.4 Properties-Thermal|[23,6]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Note": {
+                        "value": "5.4 Properties-Thermal|[23,7]",
+                        "type": "String",
+                        "required": false
+                    }
+                }
+            ]
+        },
+        "Glass transition temperature": {
+            "type": "multiples",
+            "values": [
+                {
+                    "Description": {
+                        "value": "5.4 Properties-Thermal|[25,1]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Fixed Value": {
+                        "value": "5.4 Properties-Thermal|[25,2]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Unit": {
+                        "value": "5.4 Properties-Thermal|[25,3]",
+                        "type": "List",
+                        "required": false,
+                        "validList": "Thermal::Glass_transition_temperature_#::Unit"
+                    },
+                    "Uncertainty Type": {
+                        "value": "5.4 Properties-Thermal|[25,4]",
+                        "type": "List",
+                        "required": false,
+                        "validList": "Thermal::Glass_transition_temperature_#::Uncertainty_Type"
+                    },
+                    "Uncertainty Value": {
+                        "value": "5.4 Properties-Thermal|[25,5]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Datafile": {
+                        "value": "5.4 Properties-Thermal|[25,6]",
+                        "type": "String",
+                        "required": false
+                    },
+                    "Note": {
+                        "value": "5.4 Properties-Thermal|[25,7]",
+                        "type": "String",
+                        "required": false
+                    }
+                }
+            ]
+        },
+        "LC phase transition temperature": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[27,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[27,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[27,3]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::LC_phase_transition_temperature::Unit"
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[27,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::LC_phase_transition_temperature::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[27,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[27,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[27,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Melting temperature": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[29,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[29,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[29,3]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Melting_temperature::Unit"
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[29,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Melting_temperature::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[29,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[29,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[29,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Specific heat capacity, C_p": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[31,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[31,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[31,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[31,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Specific_heat_capacity,_C_p::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[31,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[31,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[31,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Specific heat capacity, C_v": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[33,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[33,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[33,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[33,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Specific_heat_capacity,_C_v::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[33,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[33,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[33,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Thermal conductivity": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[35,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[35,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[35,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[35,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Thermal_conductivity::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[35,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[35,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[35,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Thermal diffusivity": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[37,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[37,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[37,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[37,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Thermal_diffusivity::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[37,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[37,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[37,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Brittle temperature": {
+            "Description": {
+                "value": "5.4 Properties-Thermal|[39,1]",
+                "type": "String",
+                "required": false
+            },
+            "Fixed Value": {
+                "value": "5.4 Properties-Thermal|[39,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.4 Properties-Thermal|[39,3]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Brittle_temperature::Uncertainty_Type"
+            },
+            "Uncertainty Type": {
+                "value": "5.4 Properties-Thermal|[39,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Thermal::Brittle_temperature::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.4 Properties-Thermal|[39,5]",
+                "type": "String",
+                "required": false
+            },
+            "Datafile": {
+                "value": "5.4 Properties-Thermal|[39,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.4 Properties-Thermal|[39,7]",
+                "type": "String",
+                "required": false
+            }
+        }
+    }
+}

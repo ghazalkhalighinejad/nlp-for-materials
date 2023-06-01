@@ -1,0 +1,50 @@
+
+{
+    "Electrical": {
+        "Conductivity": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "Current density": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "Energy density": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "Surface resistivity": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "Volume resistivity": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "Arc resistance": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "Impedance": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "Percolation threshold": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        },
+        "DC dielectric constant": {
+            "Description/Condition": {},
+            "Fixed Value": {},
+            "Unit": {}
+        }
+    }
+}

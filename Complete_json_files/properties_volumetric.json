@@ -1,0 +1,289 @@
+{
+    "Volumetric": {
+        "Weight loss": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[4,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[4,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[4,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[4,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Weight_loss::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[4,5]",
+                "type": "String"
+            },
+            "Datafile": {
+                "value": "5.5 Properties-Volumetric|[4,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[4,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Interfacial thickness": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[5,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[5,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[5,3]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Interfacial_thickness::Unit"
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[5,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Interfacial_thickness::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[5,5]",
+                "type": "String"
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[5,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Density": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[6,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[6,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[6,3]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Density::Unit"
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[6,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Density::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[6,5]",
+                "type": "String"
+            },
+            "Datafile": {
+                "value": "5.5 Properties-Volumetric|[6,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[6,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Linear expansion coefficient": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[7,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[7,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[7,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[7,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Linear_expansion_coefficient::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[7,5]",
+                "type": "String"
+            },
+            "Datafile": {
+                "value": "5.5 Properties-Volumetric|[7,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[7,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Volume expansion coefficient": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[8,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[8,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[8,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[8,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Volume_expansion_coefficient::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[8,5]",
+                "type": "String"
+            },
+            "Datafile": {
+                "value": "5.5 Properties-Volumetric|[8,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[8,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Surface tension": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[9,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[9,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[9,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[9,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Surface_tension::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[9,5]",
+                "type": "String"
+            },
+            "Datafile": {
+                "value": "5.5 Properties-Volumetric|[9,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[9,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Interfacial tension": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[10,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[10,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[10,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[10,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Interfacial_tension::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[10,5]",
+                "type": "String"
+            },
+            "Datafile": {
+                "value": "5.5 Properties-Volumetric|[10,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[10,7]",
+                "type": "String",
+                "required": false
+            }
+        },
+        "Water absorption": {
+            "Description": {
+                "value": "5.5 Properties-Volumetric|[11,1]",
+                "type": "String"
+            },
+            "Fixed Value": {
+                "value": "5.5 Properties-Volumetric|[11,2]",
+                "type": "String",
+                "required": false
+            },
+            "Unit": {
+                "value": "5.5 Properties-Volumetric|[11,3]",
+                "type": "String",
+                "required": false
+            },
+            "Uncertainty Type": {
+                "value": "5.5 Properties-Volumetric|[11,4]",
+                "type": "List",
+                "required": false,
+                "validList": "Volumetric::Water_absorption::Uncertainty_Type"
+            },
+            "Uncertainty Value": {
+                "value": "5.5 Properties-Volumetric|[11,5]",
+                "type": "String"
+            },
+            "Datafile": {
+                "value": "5.5 Properties-Volumetric|[11,6]",
+                "type": "String",
+                "required": false
+            },
+            "Note": {
+                "value": "5.5 Properties-Volumetric|[11,7]",
+                "type": "String",
+                "required": false
+            }
+        }
+    }
+}

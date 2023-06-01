@@ -1,0 +1,344 @@
+{
+  "Mechanical": {
+    "Tensile": {
+      "Tensile Modulus": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Tensile stress at break": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Tensile stress at yield": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Tensile strength": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Tensile toughness": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Strain at break": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Elongation at break": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Elongation at yield": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Fiber tensile modulus": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Fiber tensile strength": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Fiber tensile elongation": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Poisson's ratio": {
+        "Fixed Value": {}
+      },
+      "Conditions-Strain rate": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Conditions-Preload": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      }
+    },
+    "Flexural": {
+      "Flexural modulus": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Flexural stress at break": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Flexural stress at yield": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Flexural toughness": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Conditions-Strain rate": {
+        "Description": {},
+        "Fixed Value": {},
+ 	"Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+            "Conditions-Preload": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            }
+        },
+        "Compression": {
+            "Compression modulus": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Compression stress at break": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Compression stress at yield": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Compressive toughness": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Conditions-Strain rate": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Conditions-Preload": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            }
+        },
+        "Shear": {
+            "Shear modulus": {
+                 "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Shear stress at break": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Shear stress at yield": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Conditions-Strain rate": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Conditions-Preload": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            }
+        },
+        "Fracture": {
+            "Essential work of fracture (EWF)": {
+                "Pre-cracking process": {
+                    "Description": {}
+                },
+                "Strain rate": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+                },
+                "Fracture energy": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+                }
+            },
+            "Linear Elastic": {
+                "Sample shape": {
+                    "Description": {}
+                },
+                "Pre-cracking process": {
+                    "Description": {}
+                },
+                "Strain rate": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Fracture energy": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+                },
+                "K-factor": {
+                    "Description": {}
+                }
+            },
+            "Plastic Elastic": {
+                "Sample shape": {
+                    "Description": {}
+                },
+                "Pre-cracking process": {
+                    "Description": {}
+                },
+                "Strain rate": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+                },
+                "Fracture energy": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+                },
+                "J-integral": {
+                    "Description": {}
+                }
+            }
+        },
+        "Impact": {
+            "Notch": {
+                "Description": {}
+            },
+            "IZOD-Area": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "IZOD-Impact energy": {
+                 "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Charpy Impact Energy": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            },
+            "Impact toughness": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            }
+        },
+        "Hardness": {
+            "Test standard": {
+                "Description": {}
+            },
+            "Scale": {
+                "Description": {}
+            },
+            "Hardness value": {
+                "Description": {},
+                "Fixed Value": {},
+                "Unit": {},
+                "Uncertainty Type": {},
+                "Uncertainty Value": {}
+            }
+        }
+    }
+}

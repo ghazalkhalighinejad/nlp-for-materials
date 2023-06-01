@@ -1,0 +1,301 @@
+{
+    "Experimental Procedure": {
+        "value": "3. Synthesis and Processing|[2,1]",
+        "type": "String",
+        "required": false
+    },
+    "Processing method": {
+        "type": "multiples",
+        "values": [
+            {
+                "Processing method #": {}
+            }
+        ]
+    },
+    "Mixing": {
+        "type": "multiples",
+        "values": [
+            {
+                "Mixing - description": {
+                    "Description/Fixed Value": {}
+                },
+                "Mixing - mixer": {
+                    "Description/Fixed Value": {}
+                },
+                "Mixing - method": {
+                    "Description/Fixed Value": {}
+                },
+                "Mixing - RPM": {
+                    "Description/Fixed Value": {},
+                    "Unit": {}
+                },
+                "Mixing - time": {
+                    "Description/Fixed Value": {},
+                    "Unit": {}
+                },
+                "Mixing - temperature": {
+                    "Description/Fixed Value": {},
+                    "Unit": {}
+                },
+                "Mixing - chemical used": [
+                    {
+                        "Name": {},
+                        "Value": {},
+                        "Unit": {}
+                    }
+                ]
+            }
+        ]
+    },
+    "Drying/Evaporation": {
+        "type": "multiples",
+        "values": [
+            {
+                "Drying/Evaporation - description": {
+                    "Description/Fixed Value": {}
+                },
+                "Drying/Evaporation - temperature": {
+                    "Description/Fixed Value": {},
+                    "Unit": {}
+                },
+                "Drying/Evaporation - time": {
+                    "Description/Fixed Value": {},
+                    "Unit": {}
+                },
+                "Drying/Evaporation - pressure": {
+                    "Description/Fixed Value": {},
+                    "Unit": {}
+                },
+                "Drying/Evaporation - ambient condition": {
+                    "Mode": {}
+                }
+            }
+        ]
+    },
+    "Other": {
+        "type": "multiples",
+        "values": [
+            {
+                "Other - description": {
+                    "Description": {}
+                }
+            }
+        ]
+    },
+    "Extrusion": {
+        "type": "multiples",
+        "values": [
+            {
+                "Extrusion - Single screw extrusion": {
+                    "Extruder": {
+                        "Description/Fixed Value": {}
+                    },
+                    "Residence time": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Extrusion temperature": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Screw diameter": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Inner barrel diameter": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Screw length": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "D/L ratio": {
+                        "Description/Fixed Value": {}
+                    },
+                    "Radial flight clearance": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Flight width": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Channel depth": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Screw lead": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Number of channels per screw": {
+                        "Description/Fixed Value": {}
+                    },
+                    "Screw channel width": {
+                        "Description/Fixed Value": { },
+                        "Unit": {}
+                    },
+                    "Heating zone": {
+                        "type": "multiples",
+                        "values": [
+                            {
+                                "Heating zone - number": {
+                                    "Description/Fixed Value": { }
+                                },
+                                "Heating zone - length": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                },
+                                "Heating zone - barrel temperature": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                },
+                                "Die diameter": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                },
+                                "Rotation speed": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                },
+                                "Barrel Temperature": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                }
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Output - Melt temperature": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Pressure at die": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Torque": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Amperage": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Voltage": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Power": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Throughput": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Residence time": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        }
+                    }
+                },
+                "Extrusion - Twin screw extrusion": {
+                    "Extruder": {
+                        "Description/Fixed Value": {}
+                    },
+                    "Residence time": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Extrusion temperature": {
+                        "Description/Fixed Value": { },
+                        "Unit": {}
+                    },
+                    "Rotation mode": {
+                        "Description/Fixed Value": {}
+                    },
+                    "Screw diameter": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Screw channel diameter": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "D/L ratio": {
+                        "Description/Fixed Value": {}
+                    },
+                    "Flight clearance": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Flight width": {
+                        "Description/Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Heating zone": {
+                        "type": "multiples",
+                        "values": [
+                            {
+                                "Heating zone - number": {
+                                    "Description/Fixed Value": {}
+                                },
+                                "Heating zone - length": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                },
+                                "Heating zone - barrel temperature": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                },
+                                "Die diameter": {
+                                    "Description/Fixed Value": {},
+                                    "Unit": {}
+                                },
+                                "Rotation speed": {
+                                    "Description/Fixed Value": {}
+                                }
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Output - Melt temperature": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Pressure at die": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Torque": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Amperage": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Voltage": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Power": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Throughput": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        },
+                        "Output - Residence time": {
+                            "Description/Fixed Value": {},
+                            "Unit": {}
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

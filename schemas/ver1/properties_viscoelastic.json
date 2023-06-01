@@ -1,0 +1,112 @@
+{
+    "Viscoelastic": {
+        "Dynamic properties": {
+            "Equipment Description": {},
+            "Measurement mode": {},
+            "Measurement method": {},
+            "DMA mode": {},
+            "DMA Test Conditions": {
+                "Temperature": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {}
+                },
+                "Strain amplitude": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {}
+                },
+                "Frequency": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {}
+                }
+            }
+        },
+        "Creep": {
+            "compressive": {
+                "Compressive creep rupture strength": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Compressive creep rupture time": {
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Compressive creep strain": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                }
+            },
+            "Tensile": {
+                "Tensile creep recovery": {
+                    "Description": {}
+                },
+                "Tensile creep modulus": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Tensile creep compliance": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Tensile creep rupture strength": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Tensile creep rupture time": {
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Tensile creep strain": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                }
+            },
+            "Flexural": {
+                "Flexural creep rupture strength": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Flexural creep rupture time": {
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                },
+                "Flexural creep strain": {
+                    "Description": {},
+                    "Fixed Value": {},
+                    "Unit": {},
+                    "Uncertainty Type": {},
+                    "Uncertainty Value": {}
+                }
+            }
+        }
+    }
+}

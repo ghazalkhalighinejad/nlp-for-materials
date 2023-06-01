@@ -1,0 +1,60 @@
+{
+  "Volumetric": {
+    "Weight loss": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Interfacial thickness": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Density": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Linear expansion coefficient": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Volume expansion coefficient": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Surface tension": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Interfacial tension": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Water absorption": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    }
+  }
+}

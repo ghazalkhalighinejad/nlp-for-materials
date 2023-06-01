@@ -1,0 +1,135 @@
+{
+  "Thermal": {
+    "Measurement Method": {
+      "Description": {}
+    },
+    "Crystallinity": {
+      "Degree of crystallization": {
+        "Description": {},
+        "Fixed Value": {}
+      },
+      "Growth rate of crystal": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Growth rate parameter of Avrami Equation": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Nucleation parameter of Avrami Equation": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      },
+      "Half life of crystallization": {
+        "Description": {},
+        "Fixed Value": {},
+        "Unit": {},
+        "Uncertainty Type": {},
+        "Uncertainty Value": {}
+      }
+    },
+    "Crystallization temperature": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Heat of crystallization": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Heat of fusion": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Thermal decomposition temperature": {
+      "type": "multiples",
+      "values": [
+        {
+          "Description": {},
+          "Fixed Value": {},
+          "Unit": {},
+          "Uncertainty Type": {},
+          "Uncertainty Value": {}
+        }
+      ]
+    },
+    "Glass transition temperature": {
+      "type": "multiples",
+      "values": [
+        {
+          "Description": {},
+          "Fixed Value": {},
+          "Unit": {},
+          "Uncertainty Type": {},
+          "Uncertainty Value": {}
+        }
+      ]
+    },
+    "LC phase transition temperature": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Melting temperature": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Specific heat capacity, C_p": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Specific heat capacity, C_v": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Thermal conductivity": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Thermal diffusivity": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    },
+    "Brittle temperature": {
+      "Description": {},
+      "Fixed Value": {},
+      "Unit": {},
+      "Uncertainty Type": {},
+      "Uncertainty Value": {}
+    }
+  }
+}

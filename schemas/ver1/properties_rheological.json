@@ -1,0 +1,65 @@
+{
+    "Rheological": {
+        "Complex Modulus": {
+            "type": "multiples",
+            "values": [
+                {
+                    "Rheometer mode": {},
+                    "Rheometer Test Conditions": {
+                        "Temperature": {},
+                        "Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Strain amplitude": {
+                        "Description": {},
+                        "Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Frequency": {
+                        "Description": {},
+                        "Fixed Value": {},
+                        "Unit": {}
+                    }
+                }
+            ]
+        },
+        "Viscosity": {
+            "type": "multiples",
+            "values": [
+                {
+                    "Rheometer mode": {},
+                    "Rheometer Test Conditions": {
+                        "Temperature": {},
+                        "Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Strain amplitude": {
+                        "Description": {},
+                        "Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Frequency": {
+                        "Description": {},
+                        "Fixed Value": {},
+                        "Unit": {}
+                    },
+                    "Dynamic viscosity": {
+                        "Description": {},
+                        "Fixed Value": {},
+                        "Unit": {},
+                        "Uncertainty Type": {},
+                        "Uncertainty Value": {}
+                    },
+                    "Melt viscosity": {
+                        "Description": {},
+                        "Fixed Value": {},
+                        "Unit": {},
+                        "Uncertainty Type": {},
+                        "Uncertainty Value": {}
+                    }
+                }
+            ]
+        }
+    }
+}
+
