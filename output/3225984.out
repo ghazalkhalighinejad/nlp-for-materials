@@ -1,0 +1,39 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {"Instrument model": "JEOL Model, JEM-2010"},
+         
+        "Scanning electron microscopy": {"Instrument model": "JEOL Model, JSM-6490"},
+         
+        "Atomic force microscopy": {},
+           
+        "Optical microscopy": {}},
+           
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+           
+        "Xray photoelectron spectroscopy": {},
+            
+        "Nuclear magnetic resonance": {},
+
+        "Raman spectroscopy": {},
+        
+        "Dielectric and impedance spectroscopy analysis": {"Instrument model": "Agilent 4294 A impedance analyzer", "Frequency range": "50-107 Hz", "Temperature": "room temperature"}},
+
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+           
+        "Thermogravimetric analysis": {},
+            
+        "Dynamic mechanical analysis": {}},
+            
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {},
+            
+    "Others": {
+        "Pulsed electro acoustic": {},
+            
+        "Rheometry": {},
+            
+        "Electrometry": {}}
+}  
+}
