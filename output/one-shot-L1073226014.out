@@ -1,0 +1,40 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {"Equipment Used": "JEOL field emission scanning electron microscope (FESEM)"},
+
+        "Scanning electron microscopy": {"Equipment Used": "JEOL field emission scanning electron microscope (FESEM)"},
+         
+        "Atomic force microscopy": {},
+           
+        "Optical microscopy": {}},
+           
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+           
+        "Xray photoelectron spectroscopy": {},
+            
+        "Nuclear magnetic resonance": {},
+
+	"Raman spectroscopy": {},
+
+	"Dielectric and impedance spectroscopy analysis": {"Equipment": "Agilent Impedance Analyzer with 16451B Dielectric Test Fixture", "Frequency Range": "4x10^2 - 10^6 Hz", "Temperature": "27 °C", "Relative Humidity": "60%"}},
+
+    "Thermochemical": {
+        "Differential scanning calorimetry": {"Equipment Used": "Mettler Differential Scanning Calorimetry (DSC) equipment", "Temperature Scanning Range": "Upto 200°C", "Rate of Temperature Rise": "5 °C/minute"},
+           
+        "Thermogravimetric analysis": {},
+            
+        "Dynamic mechanical analysis": {}},
+            
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {},
+            
+    "Others": {
+        "Pulsed electro acoustic": {},
+            
+        "Rheometry": {},
+            
+        "Electrometry": {}
+        }
+    }
+}
