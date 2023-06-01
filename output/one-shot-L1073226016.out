@@ -1,0 +1,40 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "JEOL field emission scanning electron microscope (FESEM)",
+            "Description": "The dispersion of fillers in the epoxy micro/nano composites were investigated by examining the sample crosssections under a JEOL field emission scanning electron microscope (FESEM). Samples of approximately 1 mm × 1 mm × 1 mm for microscopy are prepared by cutting the epoxy composites at different locations and analyzed. Representative SEM micrographs are shown in Figure 1 where the uniform dispersion of particles in the epoxy composites can be seen."
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {
+            "Equipment": "Agilent impedance analyzer with 16451B dielectric test fixture",
+            "Description": "Permittivity and tan delta measurements in the frequency range of 4×102-106 Hz were performed using an Agilent impedance analyzer with 16451B dielectric test fixture (Agilent, USA) and the data presented in this paper are an average value of 5 samples which were prepared over a period of one month. The error in the measurement is within 2%. For the dc volume resistivity measurements, a Keithley electrometer with 8009 resistivity measurement kit is used and a measurement protocol is followed. The readings are obtained under an applied voltage of 500 V dc."
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "EquipmentUsed": "Mettler Differential Scanning Calorimetry (DSC) equipment",
+            "Description": "To analyze the material characteristics of nanocomposites, their glass transition temperatures (Tg) were measured using a Mettler Differential Scanning Calorimetry (DSC) equipment. The experiments were performed at 5 °C/minute rate of rise of temperature with scanning upto 200 °C. The Tg data reported in this paper are an average value of 3 measurements and the error in the measurement is around 1%."
+        },
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {},
+        "Dielectric strength measurements": {
+            "Description": "The dielectric strength measurements in the present study are performed using a breakdown test cell designed with the appropriate electrodes as per ASTM D149 and the breakdown tests are carried out in a medium of transformer oil. The electrodes (both top and bottom) are cylindrical electrodes of 25 mm diameter with edges rounded to 3.2 mm. Proper care was taken to ensure that the transformer oil used in the experiments are pure (moisture and particle free). The sample was placed between the electrodes and the ac (50 Hz) voltage was continuously increased at a speed of 500 V/s till the sample broke down. The breakdown voltage, V (kV) of the samples are recorded and the dielectric strength, E (kV/mm) was calculated as E=V/t, where t is the thickness of the sample in millimeters. The dielectric strength data from this study are again presented in the form of Weibull plots."
+        }
+    }
+}
