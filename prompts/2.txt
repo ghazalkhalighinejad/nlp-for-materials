@@ -1,0 +1,5 @@
+Please fill out the json table of materials characterization according to the paper split.
+
+Paper split: [PAPER SPLIT]
+
+Characterization: [TABLE SPLIT]

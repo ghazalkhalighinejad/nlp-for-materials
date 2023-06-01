@@ -1,6 +1,26 @@
 import openai
 import os
-openai.api_key = "YOUR_API_KEY"
+import argparse
+
+
+parser = argparse.ArgumentParser(description='Generate a prompt for a given paper and table.')
+parser.add_argument('--prompt_path', type=str, help='Path to the prompt file.')
+parser.add_argument('--paper_path', type=str, help='Path to the paper file.')
+parser.add_argument('--table_path', type=str, help='Path to the table file.')
+parser.add_argument('--api_key', type=str, help='Path to the table file.')
+args = parser.parse_args()
+
+
+
+def generate_prompt(prompt_file, paper_file, table_file):
+    prompt = load_text_file(prompt_file)
+    paper = load_text_file(paper_file)
+    table = load_text_file(table_file)
+    
+    prompt = prompt.replace("[PAPER SPLIT]", paper)
+    prompt = prompt.replace("[TABLE SPLIT]", table)
+
+    return prompt
 
 def load_text_file(file_path):
     try:
@@ -12,7 +32,7 @@ def load_text_file(file_path):
         return None
 
 file_path = 'prompt.txt'
-prompt = load_text_file(file_path)
-
+prompt = generate_prompt(args.prompt_path, args.paper_path, args.table_path)
+openai.api_key = args.api_key
 response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "system", "content": "You extract information from documents and return json objects"},{"role": "user", "content": prompt}])
 print(response["choices"][0]["message"]["content"])

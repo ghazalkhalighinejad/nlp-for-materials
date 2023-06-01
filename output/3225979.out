@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/usr/project/xtmp/gk126/nlp-for-materials/nlp-for-materials/main.py", line 37, in <module>
+    response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "system", "content": "You extract information from documents and return json objects"},{"role": "user", "content": prompt}])
+  File "/usr/xtmp/gk126/miniconda3/envs/python3.9/lib/python3.9/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/usr/xtmp/gk126/miniconda3/envs/python3.9/lib/python3.9/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/usr/xtmp/gk126/miniconda3/envs/python3.9/lib/python3.9/site-packages/openai/api_requestor.py", line 230, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/usr/xtmp/gk126/miniconda3/envs/python3.9/lib/python3.9/site-packages/openai/api_requestor.py", line 624, in _interpret_response
+    self._interpret_response_line(
+  File "/usr/xtmp/gk126/miniconda3/envs/python3.9/lib/python3.9/site-packages/openai/api_requestor.py", line 687, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.InvalidRequestError: This model's maximum context length is 4097 tokens. However, your messages resulted in 4177 tokens. Please reduce the length of the messages.
