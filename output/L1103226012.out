@@ -1,0 +1,30 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {"Method": "Field emission scanning electron microscopy (FESEM)", "Equipment": "JEOL FESEM"},
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {"Method": "ASTM test procedures", "Equipment": "Agilent impedance analyzer with 16451B dielectric test fixture (Agilent, USA)", "Frequency range": "4×102-106 Hz", "Data": "average value of 5 samples", "Error": "within 2%"}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {"Method": "Mettler Differential Scanning Calorimetry (DSC)", "Equipment": "Mettler DSC equipment", "Temperature range": "upto 200 °C", "Rate of rise of temperature": "5 °C/minute", "Data": "average value of 3 measurements", "Error": "around 1%"},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {},
+        "Dielectric strength measurements": {"Method": "breakdown test cell designed with the appropriate electrodes as per ASTM D149", "Equipment": "not mentioned", "Medium": "transformer oil", "Electrode diameter": "25 mm", "Edge rounded to": "3.2 mm", "Applied voltage": "ac (50 Hz) voltage continuously increased at a speed of 500 V/s", "Breakdown voltage": "V (kV)", "Dielectric strength": "E (kV/mm)", "Data": "presented in the form of Weibull plots"},
+        "Sample preparation": {"Method 1": "high shear mechanical mixing at 700 rpm for 60 s followed by ultrasonication for 1 h", "Method 2": "only mechanical mixing for a duration of 120 s", "Method details": "epoxy resin and hardener are degassed, fillers are dispersed into the epoxy resin with continuous hand stirring, mechanical mixer is used at 700 rpm for 1 h, degassing is done till the air bubbles stopped coming out of the mix, mix is then sonicated for the desired duration, required amount of hardener is mixed vigorously with hand for few minutes and poured into the mold, mold with the composite material is again degassed till the air bubbles fully stopped coming out of the material, the mold is then left for curing inside an oven at 60 °C for 4 h"}
+    }
+}
