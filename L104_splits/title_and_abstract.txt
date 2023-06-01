@@ -1,2 +1,0 @@
-High Dielectric Permittivity and Low Percolation Threshold in Nanocomposites Based on Poly(vinylidene fluoride) and Exfoliated Graphite Nanoplates
- A novel nanocomposite, based on poly-(vinylidene fluoride) and exfoliated graphite nanoplates (PVDF/xGnPs), exhibits high dielectric constant with a low percolation threshold, which can be attributed to the good dispersion of xGnP in the PVDF matrix and the formation of a large number of parallel-board microcapacitors. 
