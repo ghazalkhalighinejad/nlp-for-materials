@@ -1,0 +1,13 @@
+Please fill out the json table of materials characterization according to the paper split. At first you will see an example as a hint.
+
+Example 1: 
+
+Paper split: [PAPER SPLIT1]
+
+Characterization: [TABLE SPLIT1]
+
+Query:
+
+Paper split: [PAPER SPLIT]
+
+Characterization: [TABLE SPLIT]
