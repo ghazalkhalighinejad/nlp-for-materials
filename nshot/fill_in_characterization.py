@@ -1,3 +1,4 @@
+import os
 import json
 
 def read_json(file_path):
@@ -9,7 +10,7 @@ def write_json(file_path, data):
     with open(file_path, 'w') as file:
         json.dump(data, file, indent=4)
 
-def transform_json(file_path_1, file_path_2, output_file_path):
+def transform_json(file_path_1, file_path_2, output_dir):
     # Read JSONs
     json_1 = read_json(file_path_1)
     json_2 = read_json(file_path_2)
@@ -23,12 +24,17 @@ def transform_json(file_path_1, file_path_2, output_file_path):
             if inner_key in json_1_lower:
                 json_2_lower[outer_key][inner_key] = json_1_lower[inner_key]
 
+    # Create output file path
+    output_file_name = os.path.splitext(os.path.basename(file_path_1))[0] + "_output.json"
+    output_file_path = os.path.join(output_dir, output_file_name)
+
     # Write updated json_2 to file
     write_json(output_file_path, json_2_lower)
 
-# Replace with your file paths
-json_1_file_path = '/Users/defnecirci/Desktop/nlp-for-materials/nshot/characterization_json/characterization_L107_S1_Shen_2007.json'
+# Replace with your file paths and output directory
+json_1_file_path = '/Users/defnecirci/Desktop/nlp-for-materials/nshot/characterization_json/characterization_L101_S1_Dang_2007.json'
 json_2_file_path = '/Users/defnecirci/Desktop/nlp-for-materials/schemas/ver1/characterization_method_simplified.json'
-output_file_path = '/Users/defnecirci/Desktop/nlp-for-materials/nshot/expectedoutputs'
+output_dir = '/Users/defnecirci/Desktop/nlp-for-materials/nshot/expectedoutputs'
 
-transform_json(json_1_file_path, json_2_file_path, output_file_path)
+transform_json(json_1_file_path, json_2_file_path, output_dir)
+

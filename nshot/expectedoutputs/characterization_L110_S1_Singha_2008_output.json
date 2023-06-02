@@ -1,10 +1,8 @@
 {
     "Microscopy": {
-        "transmission_electron_microscopy": {
-            "EquipmentUsed": "JEOL JSM-2010"
-        },
+        "transmission_electron_microscopy": {},
         "scanning_electron_microscopy": {
-            "EquipmentUsed": "JEOL JSM-6490"
+            "EquipmentUsed": "JEOL field emission scanning electron microscope"
         },
         "atomic_force_microscopy": {},
         "optical_microscopy": {}
@@ -15,12 +13,17 @@
         "nuclear_magnetic_resonance": {},
         "raman_spectroscopy": {},
         "dielectric_and_impedance_spectroscopy_analysis": {
-            "Equipment": "Agilen 4294 A",
-            "Description": "The dielectric porperties of the samples were measured in the frequency range of 50-10^7 Hz at room temperature"
+            "Equipment": "Agilent impedance analyzer with 16451B dielectric test fixture"
         }
     },
     "Thermochemical": {
-        "differential_scanning_calorimetry": {},
+        "differential_scanning_calorimetry": {
+            "Equipment": "Mettler Differential Scanning Calorimetry (DSC) equipment",
+            "HeatingRate": {
+                "value": "5",
+                "unit": "deg C/min"
+            }
+        },
         "thermogravimetric_analysis": {},
         "dynamic_mechanical_analysis": {}
     },

@@ -1,5 +1,5 @@
 {
-    "microscopy": {
+    "Microscopy": {
         "transmission_electron_microscopy": {
             "Description": "Equipment not specified."
         },
@@ -7,7 +7,7 @@
         "atomic_force_microscopy": {},
         "optical_microscopy": {}
     },
-    "spectroscopy": {
+    "Spectroscopy": {
         "fourier_transform_infrared_spectroscopy": {},
         "xray_photoelectron_spectroscopy": {},
         "nuclear_magnetic_resonance": {},
@@ -18,17 +18,17 @@
             "Equipment": "HP 4194A impedance analyzer"
         }
     },
-    "thermochemical": {
+    "Thermochemical": {
         "differential_scanning_calorimetry": {},
         "thermogravimetric_analysis": {},
         "dynamic_mechanical_analysis": {}
     },
-    "scattering_and_diffraction": {
+    "Scattering and diffraction": {
         "xray_diffraction_and_scattering": {
             "Description": "Equipment not specified."
         }
     },
-    "others": {
+    "Others": {
         "pulsed_electro_acoustic": {},
         "rheometry": {},
         "electrometry": {}
