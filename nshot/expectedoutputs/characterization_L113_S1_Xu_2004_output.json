@@ -1,0 +1,388 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {},
+        "scanning_electron_microscopy": {},
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {
+            "Equipment": "DSC, Model 2920, from TA Instruments",
+            "HeatingRate": {
+                "value": "5",
+                "unit": "Celsius/minute",
+                "data": {
+                    "AxisLabel": {
+                        "xName": "Temperature",
+                        "xUnit": "Celsius",
+                        "yName": "Heat Flow",
+                        "yUnit": "W/g"
+                    },
+                    "data": {
+                        "headers": {
+                            "column": [
+                                {
+                                    "@id": "0",
+                                    "#text": "Temperature (C)"
+                                },
+                                {
+                                    "@id": "1",
+                                    "#text": "Heat Flow (W/g)"
+                                }
+                            ]
+                        },
+                        "rows": {
+                            "row": [
+                                {
+                                    "@id": "0",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "39.7067"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0670326"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "1",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "58.0941"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0695953"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "2",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "76.4848"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0632693"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "3",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "86.3139"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0612291"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "4",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "95.1943"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0525047"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "5",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "112.648"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.00838385"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "6",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "124.111"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.122514"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "7",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "129.546"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.242412"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "8",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "133.396"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.36234"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "9",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "137.563"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.484484"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "10",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "140.78"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.606646"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "11",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "143.045"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.728825"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "12",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "145.948"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.859882"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "13",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "148.18"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.893173"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "14",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "151.01"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.833121"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "15",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "153.179"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.699749"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "16",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "155.353"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.57971"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "17",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "156.893"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.459682"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "18",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "158.427"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.321877"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "19",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "162.183"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.195142"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "20",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "166.26"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "0.0772893"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "21",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "182.701"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0430142"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "22",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "202.669"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0589394"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "23",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "221.055"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0637243"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@id": "24",
+                                    "column": [
+                                        {
+                                            "@id": "0",
+                                            "#text": "240.713"
+                                        },
+                                        {
+                                            "@id": "1",
+                                            "#text": "-0.0618661"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "thermogravimetric_analysis": {},
+        "dynamic_mechanical_analysis": {
+            "Equipment": "TA Instruments, Model 2980",
+            "Description": "Single Canitlever Mode was used on 4x4x3 mm samples"
+        }
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

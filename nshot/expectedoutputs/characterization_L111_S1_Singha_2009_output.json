@@ -1,0 +1,45 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {},
+        "scanning_electron_microscopy": {
+            "EquipmentUsed": "Sirion FESEM"
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {
+            "Equipment": "Perkin-Elmer"
+        },
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": [
+            {
+                "Equipment": "Agilent 4291B",
+                "Description": "Frequency range 10e6-10e9 - 27C 60% humidity"
+            },
+            {
+                "Equipment": "Agilent 4284A",
+                "Description": "Frequency range less than 10e6 - 27C 60% humidity"
+            },
+            {
+                "Equipment": "Keithley electrometer w/ 16451B test kit",
+                "Description": "ASTM D149 - 500V DC - 27C 60% humidity"
+            }
+        ]
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {},
+        "thermogravimetric_analysis": {},
+        "dynamic_mechanical_analysis": {}
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

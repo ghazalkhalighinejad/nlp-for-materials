@@ -1,10 +1,8 @@
 {
     "Microscopy": {
-        "transmission_electron_microscopy": {
-            "EquipmentUsed": "JEOL JSM-2010"
-        },
+        "transmission_electron_microscopy": {},
         "scanning_electron_microscopy": {
-            "EquipmentUsed": "JEOL JSM-6490"
+            "EquipmentUsed": "JEOL JSM-6400"
         },
         "atomic_force_microscopy": {},
         "optical_microscopy": {}
@@ -15,8 +13,7 @@
         "nuclear_magnetic_resonance": {},
         "raman_spectroscopy": {},
         "dielectric_and_impedance_spectroscopy_analysis": {
-            "Equipment": "Agilen 4294 A",
-            "Description": "The dielectric porperties of the samples were measured in the frequency range of 50-10^7 Hz at room temperature"
+            "Equipment": "Agilent E4991A"
         }
     },
     "Thermochemical": {
@@ -25,7 +22,9 @@
         "dynamic_mechanical_analysis": {}
     },
     "Scattering and diffraction": {
-        "xray_diffraction_and_scattering": {}
+        "xray_diffraction_and_scattering": {
+            "Equipment": "Siemens D5000"
+        }
     },
     "Others": {
         "pulsed_electro_acoustic": {},
