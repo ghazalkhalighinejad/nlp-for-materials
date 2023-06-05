@@ -1,0 +1,27 @@
+{
+    "Microscopy": {
+        "Scanning electron microscopy": {
+            "Method": "Fractured surface morphologies",
+            "Instrument": "Hitachi S-4700"
+        }
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "Method": "Curing characteristics",
+            "Instrument": "Nexus 670"
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "Method": "Curing characteristics",
+            "Instrument": "Dupont TA 2010"
+        }
+    },
+    "Scattering and diffraction": {},
+    "Others": {
+        "Dielectric and impedance spectroscopy analysis": {
+            "Method": "Dielectric measurement",
+            "Instrument": "Agilent 4294A"
+        }
+    }
+}

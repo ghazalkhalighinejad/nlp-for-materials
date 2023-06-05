@@ -1,0 +1,39 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {},
+        "scanning_electron_microscopy": {
+            "EquipmentUsed": "Cabridge Stereoscan S-360"
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {},
+        "thermogravimetric_analysis": {
+            "Equipment": "TA Instruments, Model TGA Q500",
+            "Description": "with alumina as the reference material"
+        },
+        "dynamic_mechanical_analysis": {}
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {
+            "Equipment": "XPERT-PRO Diffractometer",
+            "Description": "Philips, Netherlands with Cu K alpha 1 radiation (lamda = 0.154056 nm) in a wide range of 2 theta (theta is between 5 degrees and 85 degrees."
+        }
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {
+            "Equipment": "Impedance gainphase analyzer (HP4194A",
+            "Description": "The capacitance of the elctroded specimen was measured as a function of frequency (100Hz - 1 MHz) using an impedance gain phase analyzer at room temperature.  A two terminal capcitor configuration was employed for this measurement."
+        }
+    }
+}

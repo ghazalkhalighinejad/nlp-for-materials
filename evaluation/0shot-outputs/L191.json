@@ -1,0 +1,15 @@
+{
+    "Thermochemical": {
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Rheometry": {},
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {}
+    },
+    "Mechanical characterization": {
+        "Tensile properties": {},
+        "Charpy notched impact": {}
+    }
+}

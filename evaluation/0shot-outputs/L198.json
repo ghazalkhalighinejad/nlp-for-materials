@@ -1,0 +1,34 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "Description": "Scanning electron microscopy of delaminated fracture surfaces was implemented to determine the morphology of the nanostructured phases and gain insight into the mechanisms behind the observed mechanical reinforcement."
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {
+            "Description": "Transverse electrical conductivity was determined using alternating current impedance spectroscopy on polished specimens."
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {
+            "Description": "Dynamic mechanical thermal analysis (DMTA) was performed on unidirectional composite specimens using an RSA3 (TA Instruments) in three-point bending with a 40-mm span. Temperature ramps were carried out from 30°C to 320°C at a heating rate of 3°Cmin−1 with 0.1% strain amplitude and 1Hz frequency."
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

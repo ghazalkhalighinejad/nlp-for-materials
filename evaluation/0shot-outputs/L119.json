@@ -1,0 +1,22 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "Instrument": "JEOL CX100",
+            "Acceleration voltage": "100 kV"
+        }
+    },
+    "Thermochemical": {
+        "Thermogravimetric analysis": {
+            "Instrument": "TA Instruments SDT 2960",
+            "Atmosphere": "Nitrogen",
+            "Temperature range": "Room temperature to 700°C"
+        },
+        "Dynamic mechanical analysis": {
+            "Instrument": "TA Instruments DMA 2980",
+            "Atmosphere": "Nitrogen",
+            "Temperature range": "Room temperature to 150°C",
+            "Heating rate": "3°C/min",
+            "Frequency": "1 Hz"
+        }
+    }
+}

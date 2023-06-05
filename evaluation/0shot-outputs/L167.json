@@ -1,0 +1,18 @@
+{
+    "Microscopy": {
+        "Scanning electron microscopy": {},
+        "Transmission electron microscopy": {}
+    },
+    "Spectroscopy": {},
+    "Thermochemical": {
+        "Thermogravimetric analysis": {},
+        "Differential scanning calorimetry": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Dielectric and impedance spectroscopy analysis": {}
+    }
+}

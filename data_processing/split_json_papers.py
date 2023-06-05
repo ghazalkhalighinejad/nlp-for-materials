@@ -12,38 +12,35 @@ args = parser.parse_args()
 
 if __name__ == '__main__':
 
-
     # Load the data from the JSON file
     with open(args.input_file) as f:
         data = json.load(f)
 
-    for key in data:
-        print(key)
-
-    title = data['title']
-    abstract = data['abstract']
-    body = data['body']
-    doi = data['doi']
-    figures = data['figures']
-    table_captions = data['table_captions']
+    title = data.get('title', '')
+    abstract = data.get('abstract', '')
+    body = data.get('body', [])
+    doi = data.get('doi', '')
+    figures = data.get('figures', [])
+    table_captions = data.get('table_captions', [])
 
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
 
     with open(f'{args.output_dir}/title_and_abstract.txt', 'w') as f:
-        f.write(title+ '\n' + abstract)
+        f.write(title + '\n' + abstract)
 
-    with open(f'{args.output_dir}/table_captions.txt', 'w') as f:
-        for table_caption in table_captions:
-            f.write(str(table_caption) + '\n')
+    if table_captions:
+        with open(f'{args.output_dir}/table_captions.txt', 'w') as f:
+            for table_caption in table_captions:
+                f.write(str(table_caption) + '\n')
 
-    with open(f'{args.output_dir}/figures.txt', 'w') as f:
-        for figure in figures:
-            f.write(str(figure) + '\n')
-            
+    if figures:
+        with open(f'{args.output_dir}/figures.txt', 'w') as f:
+            for figure in figures:
+                f.write(str(figure) + '\n')
+
     for section in body:
         section_title = section[0]
-        print(section_title)
         section_content = section[1]
         if section_title == 'Main':
             with open(f'{args.output_dir}/main.txt', 'w') as f:
@@ -51,7 +48,3 @@ if __name__ == '__main__':
         elif section_title == 'Experimental':
             with open(f'{args.output_dir}/experiments.txt', 'w') as f:
                 f.write(str(section_content))
-    
-    
-    
-

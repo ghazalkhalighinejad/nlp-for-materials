@@ -1,0 +1,44 @@
+{
+    "Microscopy": {
+        "Scanning electron microscopy": {
+            "Instrument": "Jeol JSM-6400",
+            "Manufacturer": "Jeol Ltd.",
+            "Location": "Japan"
+        }
+    },
+    "Spectroscopy": {
+        "Xray diffraction and scattering": {
+            "Instrument": "Siemens D5000",
+            "Manufacturer": "Siemens AG",
+            "Location": "Germany",
+            "Data file": "JCPDS data file (International Center for Diffraction Data 1992, USA)"
+        }
+    },
+    "Thermochemical": {},
+    "Scattering and diffraction": {},
+    "Others": {
+        "Rheometry": {
+            "Instrument": "HAAKE Rheocord mixer system",
+            "Model": "CG-5902 Torque Rheometer",
+            "Manufacturer": "Thermo Electron Corporation",
+            "Location": "USA"
+        },
+        "Dielectric and impedance spectroscopy analysis": {
+            "Instrument": "Agilent E4991A RF Impedance/Material Analyzer",
+            "Manufacturer": "Agilent Technologies Inc.",
+            "Location": "USA",
+            "Frequency": "1GHz",
+            "Temperature": "room temperature",
+            "LCR meter": {
+                "Model": "HP 4284A precision LCR meter",
+                "Manufacturer": "Agilent Technologies Inc.",
+                "Location": "USA"
+            },
+            "Temperature control system": {
+                "Model": "TMS94 temperature controller and LNP94 automated liquid nitrogen cooling pump",
+                "Manufacturer": "Linkam Scientific instruments Ltd.",
+                "Location": "UK"
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {},
+        "scanning_electron_microscopy": {
+            "Description": "used"
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {
+            "Equipment": "Reinshaw S2000"
+        },
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {},
+        "thermogravimetric_analysis": {},
+        "dynamic_mechanical_analysis": {
+            "Equipment": "Rheometrics DMTA-V"
+        }
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

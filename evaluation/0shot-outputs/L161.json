@@ -1,0 +1,42 @@
+{
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "Instrument": "Perkin Elmer DSC7",
+            "Protocol": "Heated from room temperature to 290°C at 10°Cmin-1, held there for 10min, and cooled back to room temperature at 10°Cmin-1"
+        },
+        "Dynamic mechanical analysis": {
+            "Instrument": "Rheometrics RMS800",
+            "Measurements": [
+                "Absolute modulus through mechanical vibration measurements",
+                "Compression tests at a strain rate of 0.5% s-1",
+                "Tensile tests at a strain rate of 0.5% s-1 and ambient temperature",
+                "Volume changes during tensile tests at room temperature recorded on a 'cavitometer'"
+            ]
+        }
+    },
+    "Scattering and diffraction": {
+        "Wide angle X-ray scattering": {
+            "Instrument": "Copper anode",
+            "Radiation": "Ni filtered CuKα radiation (in point collimation)"
+        },
+        "Small angle X-ray scattering": {
+            "Instrument": "Copper anode",
+            "Radiation": "Ni filtered CuKα radiation (in point collimation)"
+        }
+    },
+    "Rheometry": {
+        "Capillary rheometry": {
+            "Temperature": "250°C"
+        }
+    },
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "Instrument": "High voltage of 120kV"
+        }
+    },
+    "Others": {
+        "Composite systems production": {
+            "Method": "In situ polymerisation around the inorganic fillers"
+        }
+    }
+}

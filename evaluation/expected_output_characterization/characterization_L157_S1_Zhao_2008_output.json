@@ -1,0 +1,44 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {
+            "EquipmentUsed": "JEOL CM12"
+        },
+        "scanning_electron_microscopy": {
+            "EquipmentUsed": "JEOL 6330F"
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {
+            "Equipment": "Nicolet 4700 FT-IR spectrometer"
+        },
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {
+            "Equipment": "model Q100",
+            "Description": "TA Instruments",
+            "HeatingRate": {
+                "value": "10",
+                "unit": "C/min"
+            }
+        },
+        "thermogravimetric_analysis": {
+            "Equipment": "model Q50",
+            "Description": "TA Instruments"
+        },
+        "dynamic_mechanical_analysis": {}
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

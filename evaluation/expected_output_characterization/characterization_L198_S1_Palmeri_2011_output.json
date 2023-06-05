@@ -1,0 +1,47 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {
+            "EquipmentUsed": "JEOL JEM-2100F",
+            "AcceleratingVoltage": {
+                "value": "200",
+                "unit": "kV"
+            }
+        },
+        "scanning_electron_microscopy": {
+            "EquipmentUsed": "LEO Gemini 1525 SEM",
+            "AcceleratingVoltage": {
+                "value": "3",
+                "unit": "kV"
+            },
+            "WorkingDistance": {
+                "value": "5",
+                "unit": "mm"
+            }
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {},
+        "thermogravimetric_analysis": {},
+        "dynamic_mechanical_analysis": {
+            "Equipment": "RSA3",
+            "Description": "TA Instruments"
+        }
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

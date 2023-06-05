@@ -1,4 +1,4 @@
-Please fill out the json table of materials characterization according to the paper split.
+Please fill out the json table of materials characterization according to the paper split. Only print the json file.
 
 Paper split: [PAPER SPLIT]
 

@@ -1,0 +1,4 @@
+Preparation and dielectric behaviors of thermoplastic and thermosetting polymer nanocomposite films containing BaTiO3 nanoparticles with different diameters
+BaTiO3 (BT) nanoparticles with three kinds of diameters were synthesized by alkoxide route and then dispersed into a thermoplastic polyvinylidene fluoride (PVDF) and a thermoset polyimide (PI)) to fabricate the BT/PVDF and the BT/PI nanocomposite films. Effects of nanoparticle size and polymer matrix on the dielectric properties were studied by two different measurement procedures at frequencies from 10−2
+                     Hz to 106
+                     Hz. A significant discrepancy of dielectric behaviors between the BT/PVDF films and the BT/PI films was found. The roles of nanoparticles (size and crystal phase) and properties of polymers (chemistry and chain structure) are used to explain the difference in dielectric behaviors.

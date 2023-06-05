@@ -1,0 +1,37 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {},
+        "scanning_electron_microscopy": {
+            "EquipmentUsed": "JSE-6310F",
+            "Description": "Crystal phase structures and morphologies of BT particles and nanocomposite films were characterized by a scanning electron microscope"
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {
+            "Equipment": "Novocontrol Concept 80",
+            "Description": "For the measurment of the dielectric behavior, electrodes were painted by silver paste to ensure good electrical contact.  The dielectric properties of all films at -40 deg C, 20 deg C and 80 deg C were measured in the frequency range from 10^-2 Hz to 10^6 Hz using a precision impedance analyzer."
+        }
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {},
+        "thermogravimetric_analysis": {},
+        "dynamic_mechanical_analysis": {}
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {
+            "Equipment": "Japan RigakuD/max-RC",
+            "Description": "Crystal phase structures and morphologies of BT particles and nanocomposite films were characterized by an X-ray diffraction instrument."
+        }
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

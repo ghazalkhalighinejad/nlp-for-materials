@@ -1,0 +1,24 @@
+{
+    "Microscopy": {
+        "Scanning electron microscopy": {
+            "Instrument": "JSM 7000F",
+            "Sample": "GNPs and fracture morphology of GNP/epoxy composites"
+        }
+    },
+    "Spectroscopy": {
+        "Xray photoelectron spectroscopy": {
+            "Instrument": "Kratos Axis Ultra",
+            "Sample": "GNPs"
+        },
+        "Raman spectroscopy": {
+            "Instrument": "LabRAM T6400",
+            "Sample": "GNPs"
+        }
+    },
+    "Thermochemical": {
+        "Thermal conductivity": {
+            "Instrument": "Netzsch LFA 457 Laser Flash Apparatus",
+            "Sample": "GNP/epoxy composites"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {
+            "EquipmentUsed": "JEOL CX100",
+            "AcceleratingVoltage": {
+                "value": "100",
+                "unit": "kV"
+            }
+        },
+        "scanning_electron_microscopy": {},
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {},
+        "thermogravimetric_analysis": {
+            "Equipment": "TA Instruments SDT 2960 Simultaneous DTA-TGA"
+        },
+        "dynamic_mechanical_analysis": {
+            "Equipment": "TA Instruments DMA 2980 Dynamic Mechanical Analyzer"
+        }
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

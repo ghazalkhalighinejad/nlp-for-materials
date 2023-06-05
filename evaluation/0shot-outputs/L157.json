@@ -1,0 +1,11 @@
+{
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Fourier transform infrared spectroscopy": {}
+    },
+    "Mechanical": {
+        "Tensile tests": {},
+        "Fracture surface properties": {}
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "apparatus": "Perkin–Elmer Pyris Diamond",
+            "heating rate": "10K/min",
+            "measurement": "glass transition temperature",
+            "definition": "temperature of the inflexion point on DSC data."
+        },
+        "Dynamic mechanical analysis": {
+            "measurement": "storage (G′) and the loss (G″) moduli of the complex shear modulus (G∗) and the loss factor tan(δ) (G″/G′)",
+            "method": "torsion mode",
+            "frequency": "0.1Hz",
+            "temperature range": "200K to 450K with a heating rate of 1K/min",
+            "parameters": {
+                "main relaxation temperature": "<i>T</i>α is defined here as the temperature where the maximum of tan(<i>δ</i>) is reached."
+            }
+        }
+    },
+    "Electrical measurements": {
+        "Electrical conductivity measurements": {
+            "apparatus": "Solartron 1226 bridge",
+            "applied field": "about 1Vcm−1",
+            "measurement": "AC complex electrical conductivity",
+            "method": "complex admittance Y∗ was recorded versus time. From this admittance, the complex conductivity σ∗ can be deduced.",
+            "temperature": "room temperature",
+            "frequency range": "several frequencies ranging from 10mHz to 1MHz"
+        }
+    },
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "apparatus": "JEOL 200CX transmission electron microscope (TEM)",
+            "sample preparation": "A drop of diluted suspension of MWNTs in ethanol or cellulose nanofibrils in water was deposited on amorphous carbon-coated TEM grids and then observed at room temperature."
+        }
+    }
+}
+
+Note: Only the relevant characterization techniques for the materials in this particular paper split have been included. Additionally, a few key parameters and definitions have been included where applicable.

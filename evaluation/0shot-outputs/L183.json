@@ -1,0 +1,45 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "Description": "SEM was performed on samples coated with gold using a LEO VP 435 scanning electron microscope (Leo Elektronenmikroskopie, Oberkochen, Germany). For select samples, a low voltage Zeiss Gemini DSM 982 scanning electron microscope (Zeiss, Germany) was used on uncoated samples. Photomicrographs were taken of cryofractured extruded strands. In some cases, the strands were selectively dissolved with chloroform for 4 days at room temperature to remove the PC portion of the blend prior to cryofracturing.",
+            "Method": "Scattering and diffraction"
+        },
+        "Atomic force microscopy": {
+            "Description": "Test specimens for atomic force microscopy (AFM) were prepared by cutting the strand perpendicular to the extrusion direction at room temperature using a Leica RM 2155 microtome (Leica, Germany) equipped with a diamond knife. Blends with PE were cut at approximately −60 °C. The AFM measurements were carried out in the tapping mode using a Dimension 3100 NanoScope IV (Veeco, USA) [BIB19].",
+            "Method": "Microscopy"
+        },
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {},
+        "Electrical resistivity": {
+            "Description": "The volume resistivity was measured on compression molded samples (diameter 60 mm, thickness 0.35 mm) which were prepared by pressing extrudate strand pieces using a Voit press at 260 °C. A Keithley electrometer Model 6517 equipped with a 8002A High Resistance Test Fixture was used to measure high resistivity samples. For lower resistivity blends and PC-2NT samples of 20 mm in length and 3 mm in width were cut from the pressed films and measured with a 4-point test fixture equipped with gold contact wires (distance between the source electrodes 20 mm and between the measuring electrodes 7.1 mm) using a Keithley electrometer Model 2000. The samples were thoroughly cleaned with ethanol prior to measurements. The measured volume resistance, Rv, was converted to volume resistivity, ρv, according to ASTM D4496 and D257 using the formula (1) ρv =Rv A/t (where A=effective area of the measuring electrode and t=specimen thickness).",
+            "Method": "Scattering and diffraction"
+        },
+        "Rheology": {
+            "Description": "Melt rheological properties were obtained using an ARES oscillatory rheometer (Rheometric Scientific) at 260 °C in nitrogen atmosphere using a parallel plate geometry (plates 25 mm diameter, gap of 1–2 mm). Granules and/or small pieces of extrudate strands were placed between the preheated plates and allowed to equilibrate for about 3 min. Frequency sweeps were performed between 0.1 and 100rad/s at strains within the linear viscoelastic range. Repeated sweeps with increasing and decreasing frequency were performed in order to check the stability of the sample over time (each sweep requires approximately 8 min). In most cases, the second sweep was interpretated.",
+            "Method": "Scattering and diffraction"
+        }
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Electrometry": {},
+        "Selective extraction": {
+            "Description": "Extruded strands of blends, ∼2 cm length, were dried for 8 h at 80 °C and subsequently immersed in 50 ml of chloroform at room temperature for 4 days. After the first day the chloroform-PC solution was replaced by fresh chloroform. The extracted strands were then rinsed in fresh chloroform and dried at 105 °C to remove the chloroform. The phase continuity was calculated using the ratio of the dissolvable PC part to that of PC in the blend, where the dissolvable PC part is the weight difference between the sample before and after extraction and the PC part in the blend is calculated from the sample weight before extraction and the weight percentage of PC. The continuity gives a measure of the fraction of PC associated with the continuous PC phase. The reported values are the average of two samples.",
+            "Method": "Others"
+        }
+    }
+}

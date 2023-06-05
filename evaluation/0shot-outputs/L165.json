@@ -1,0 +1,17 @@
+{
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {}
+    },
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {},
+        "Atomic force microscopy": {}
+    },
+    "Spectroscopy": {
+        "Inductively coupled plasma spectroscopy": {},
+        "Carbon, hydrogen and nitrogen analysis": {},
+        "Xray photoelectron spectroscopy": {}
+    },
+    "Others": {}
+}

@@ -1,0 +1,43 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {
+            "EquipmentUsed": "HITACHI H-600",
+            "AcceleratingVoltage": {
+                "value": "100",
+                "unit": "keV"
+            }
+        },
+        "scanning_electron_microscopy": {},
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {
+            "Equipment": "DEA 2970",
+            "Description": "TA Instruments"
+        }
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {},
+        "thermogravimetric_analysis": {
+            "Equipment": "TGA-50",
+            "Description": "SHIMADZU"
+        },
+        "dynamic_mechanical_analysis": {
+            "Equipment": "DMA Q800",
+            "Description": "TA Instruments"
+        }
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

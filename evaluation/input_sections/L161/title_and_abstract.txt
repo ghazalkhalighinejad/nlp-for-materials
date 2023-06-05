@@ -1,0 +1,5 @@
+Nanofillers in polymeric matrix: a study on silica reinforced PA6
+The study was carried out on nanocomposites consisting of nanoscopic silica fillers embedded in polyamide 6. Various composite systems were prepared through in situ polymerisation, with different elementary particle diameters and filler contents as variables.
+                  The morphological investigation demonstrated the non influence of the particle presence on the crystalline phase of such composites.
+                  The introduction of filler leads to an obvious reinforcement of the matrix elastic modulus: the observed increase depends on the modulus difference between the various phases present, the filler content and its dispersion state. In the same way, the yield point, in both compressive and tensile tests, is found to be sensitive to the latter parameters.
+                  Complementary experiments enable to suggest possible local events leading to the rupture of these composite systems.

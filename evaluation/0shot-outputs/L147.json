@@ -1,0 +1,45 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "Instrument": "JEOL-2010",
+            "Operating voltage": "200 kV"
+        }
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "Instrument": "Perkin Elmer Spectrum One FTIR Spectrophotometer",
+            "Scanning range": "500 to 4000 cm−1",
+            "Resolution": "4 cm−1",
+            "Number of scans": "10"
+        },
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {
+            "Instrument": "Perkin Elmer Series 7",
+            "Heating rate": "10 °C/min",
+            "Sample heating range": "30 to 700 °C",
+            "Flow rate": "60 ml/min nitrogen"
+        },
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {
+            "Instrument": "Bruker D8 Discover XRD diffractometer",
+            "Radiation source": "Cu Kα",
+            "Radiation wavelength": "1.5405 Å",
+            "Accelerating voltage": "40 kV",
+            "Range": "2θ range from 10 to 80°",
+            "Step size": "0.01°"
+        }
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

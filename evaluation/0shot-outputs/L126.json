@@ -1,0 +1,27 @@
+{
+    "Microscopy": {
+        "Scanning electron microscopy": {
+            "Instrument": "Cambridge Stereoscan S-360"
+        }
+    },
+    "Spectroscopy": {
+        "Dielectric and impedance spectroscopy analysis": {
+            "Instrument": "Impedance gain-phase analyzer (HP4194A)",
+            "Frequency range": "100Hz-1MHz",
+            "Temperature": "Room temperature"
+        },
+        "Xray diffraction and scattering": {
+            "Instrument": "XPERT-PRO Diffractometer (Philips, Netherlands)",
+            "Radiation": "Cu Kα1 radiation (<i>λ=0.154056nm)",
+            "Range": "5°-85° 2<i>θ</i>"
+        }
+    },
+    "Thermochemical": {
+        "Thermogravimetric analysis": {
+            "Instrument": "TA Instruments (UK), Model: TGA Q500",
+            "Heating rate": "10°Cmin−1",
+            "Atmosphere": "N2",
+            "Reference material": "Alumina"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {
+            "EquipmentUsed": "JEOL JEM 100 CX II"
+        },
+        "scanning_electron_microscopy": {
+            "EquipmentUsed": "JEOL JSM-6300"
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {},
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {
+            "Equipment": "TA 2910"
+        },
+        "thermogravimetric_analysis": {
+            "Equipment": "TA TGA 2950"
+        },
+        "dynamic_mechanical_analysis": {}
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

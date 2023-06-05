@@ -1,0 +1,39 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "Method": "TEM",
+            "Instrument": "HITACHI H-600",
+            "Sample preparation": "Solvent casting directly onto a copper grid",
+            "Visualization": "Without any staining to enhance TEM contrast"
+        }
+    },
+    "Spectroscopy": {
+        "Xray photoelectron spectroscopy": {
+            "Method": "XPS",
+            "Instrument": "AXIS 165, Kratos",
+            "Information obtained": "Oxidation state of titanium",
+            "Correction": "Assuming that the adventitious C1s peak detected was at 284.600eV"
+        },
+        "Dielectric and impedance spectroscopy analysis": {
+            "Method": "DEA",
+            "Instrument": "DEA 2970, TA Instruments",
+            "Information obtained": "Dielectric measurements for the resulting S-SEBS nanocomposites",
+            "Sample preparation": "Sandwiched between the ceramic parallel plate sensors",
+            "Purging": "With dry nitrogen at a flow rate of 500mL/min for 30min to ensure the absence of moisture during measurements",
+            "Experiment conditions": "Performed at frequencies of 1, 5, 10, 22, 46, 100, 215, 464, 1000, 2150, 4640, 10,000Hz at 35°C"
+        }
+    },
+    "Thermochemical": {
+        "Dynamic mechanical analysis": {
+            "Method": "DMA",
+            "Instrument": "Q800, TA Instruments",
+            "Information obtained": "Tensile strength and ultimate elongation, storage and loss modulus transitions"
+        },
+        "Thermogravimetric analysis": {
+            "Method": "TGA",
+            "Instrument": "TGA-50, SHIMADZU",
+            "Information obtained": "Thermal stability of the composite",
+            "Sample preparation": "Heated at 10°C/min under ambient conditions"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Microscopy": {
+        "transmission_electron_microscopy": {},
+        "scanning_electron_microscopy": {
+            "EquipmentUsed": "Hitachi S-4700"
+        },
+        "atomic_force_microscopy": {},
+        "optical_microscopy": {}
+    },
+    "Spectroscopy": {
+        "fourier_transform_infrared_spectroscopy": {
+            "Equipment": "Nexus 670"
+        },
+        "xray_photoelectron_spectroscopy": {},
+        "nuclear_magnetic_resonance": {},
+        "raman_spectroscopy": {},
+        "dielectric_and_impedance_spectroscopy_analysis": {}
+    },
+    "Thermochemical": {
+        "differential_scanning_calorimetry": {
+            "Equipment": "Dupont TA 2010"
+        },
+        "thermogravimetric_analysis": {},
+        "dynamic_mechanical_analysis": {}
+    },
+    "Scattering and diffraction": {
+        "xray_diffraction_and_scattering": {}
+    },
+    "Others": {
+        "pulsed_electro_acoustic": {},
+        "rheometry": {},
+        "electrometry": {}
+    }
+}

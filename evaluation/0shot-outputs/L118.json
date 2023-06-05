@@ -1,0 +1,34 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "Instrument": "Philips XL30",
+            "Details": "High resolution SEM used to observe nanotube dispersion after nanocomposite preparation."
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {
+            "Instrument": "EPLEXOR 500 N",
+            "Details": "Used to perform tensile DMTA tests on the nanocomposites in the 0-130°C temperature range. Storage modulus (E'), complex modulus (E*) and loss tangent (tan δ) were measured."
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Thermochemical": {
+        "Thermogravimetric analysis": {
+            "Instrument": "TA TGA-Q50 thermobalance",
+            "Heating rate": "various heating rates",
+            "Purge gas": "nitrogen",
+            "Temperature range": "not specified"
+        },
+        "Dynamic mechanical analysis": {
+            "Instrument": "Du-Pont 2980 Dynamic Mechanical Analyzer",
+            "Heating rate": "10°C/min"
+        }
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "Instrument": "BIO-RAD FTS-40A+UMA500 spectrometer",
+            "Sample preparation": "KBr pellet",
+            "Spectral resolution": "4cm−1",
+            "Functional groups analyzed": "–CH3, –CH2–, and –OH"
+        }
+    },
+    "Microscopy": {
+        "Scanning electron microscopy": {
+            "Instrument": "Hitachi 4500 SEM",
+            "Acceleration voltage": "5KV"
+        }
+    }
+}
