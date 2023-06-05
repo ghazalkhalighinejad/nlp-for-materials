@@ -42,9 +42,26 @@ if __name__ == '__main__':
     for section in body:
         section_title = section[0]
         section_content = section[1]
-        if section_title == 'Main':
+        if section_title == 'Main' or section_title == 'main' or section_title == 'MAIN':
             with open(f'{args.output_dir}/main.txt', 'w') as f:
                 f.write(str(section_content))
-        elif section_title == 'Experimental':
+        if section_title == 'Introduction' or section_title == 'introduction' or section_title == 'INTRODUCTION':
+            with open(f'{args.output_dir}/introduction.txt', 'w') as f:
+                f.write(str(section_content))
+        if section_title == 'Experimental' or section_title == 'experimental' or section_title == 'EXPERIMENTAL DETAILS':
             with open(f'{args.output_dir}/experiments.txt', 'w') as f:
                 f.write(str(section_content))
+<<<<<<< HEAD
+=======
+        if section_title == 'Results and Discussion' or section_title == 'results and discussion' or section_title == 'RESULTS AND DISCUSSION':
+            with open(f'{args.output_dir}/results_and_discussion.txt', 'w') as f:
+                f.write(str(section_content))
+        if section_title == 'Conclusions':
+            with open(f'{args.output_dir}/conclusions.txt', 'w') as f:
+                f.write(str(section_content))
+        
+    
+    
+    
+
+>>>>>>> ea7bea42202d36eb08d912ea96686d9424d366b6
