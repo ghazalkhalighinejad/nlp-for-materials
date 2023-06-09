@@ -1,0 +1,37 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "Hitachi S-4700"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "EquipmentUsed": "Nexus 670"
+        },
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {
+            "Equipment": "Agilent 4294A",
+            "Description": "The alternating current (ac) dielectric properties of the composite samples were measured in the frequency ranges of 102–106 Hz and in temperature ranges from −60°C to 150°C"
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "EquipmentUsed": "Dupont TA 2010"
+        },
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

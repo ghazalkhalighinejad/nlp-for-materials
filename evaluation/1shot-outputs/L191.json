@@ -1,0 +1,40 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "Reichert-Jung Ultracut E microtome, Hitachi-800 TEM",
+            "Description": "Specimens of PVC/CaCO3 nanocomposites were ultramicrotomed to give 60nm-thick sections with a diamond knife under a liquid nitrogen environment using a Reichert-Jung Ultracut E microtome. Sections were collected on 300 mesh copper TEM grids and subsequently dried with filter paper, and examined by a Hitachi-800 TEM at an accelerating voltage of 22kV."
+        },
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "JEOL JSM 820",
+            "Description": "The morphologies of the fracture surfaces of all composites were observed in a scanning electron microscope (JEOL JSM 820). The specimens were coated with a thin layer of gold prior to SEM examination."
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {
+            "EquipmentUsed": "TA2980 Instrument dynamic mechanical analyser",
+            "Description": "Dynamic mechanical analysis (DMA) was conducted with a TA2980 Instrument dynamic mechanical analyser at a fixed frequency of 10Hz and oscillation amplitude of 0.15mm. The temperature range studied was from −20 to 130°C with a heating rate of 1°C/min."
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {
+            "EquipmentUsed": "Capillary rheometer (model XLY-1)",
+            "Description": "Rheological properties of PVC and PVC/CaCO3 nanocomposites were measured using a capillary rheometer (model XLY-1) at 175°C. The capillary die used had a length (L) to diameter (D) ratio of 40/1 and an entrance angle of 180°. The Rabinowitch and Bagley corrections [bib29] were applied to all the experimental data."
+        },
+        "Electrometry": {}
+    }
+}

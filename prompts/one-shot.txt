@@ -1,4 +1,4 @@
-Please fill out the json table of materials characterization according to the paper split. At first you will see an example as a hint.
+Please fill out the json table of materials characterization according to the paper split. At first you will see an example as a hint. Only give the json file.
 
 Example 1: 
 

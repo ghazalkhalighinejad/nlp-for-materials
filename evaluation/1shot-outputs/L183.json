@@ -1,0 +1,41 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "EquipmentUsed": ["LEO VP 435", "Zeiss Gemini DSM 982"]
+        },
+        "Atomic force microscopy": {
+            "EquipmentUsed": "Dimension 3100 NanoScope IV"
+        },
+        "Optical microscopy": {
+            "EquipmentUsed": "Leica RM 2155 microtome"
+        }
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {},
+        "Volume resistivity": {
+            "EquipmentUsed": ["Keithley electrometer Model 6517", "Keithley electrometer Model 2000"],
+            "Description": "The volume resistivity was measured on compression molded samples"
+        },
+        "Phase continuity": {
+            "Description": "The phase continuity was calculated using the ratio of the dissolvable PC part to that of PC in the blend"
+        }
+    }
+}

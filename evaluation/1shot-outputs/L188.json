@@ -1,0 +1,40 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "Hitachi 4500 SEM",
+            "AccelerationVoltage": "5KV"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "EquipmentUsed": "BIO-RAD FTS-40A+UMA500 spectrometer",
+            "Description": "KBr pellet at 4cm−1 resolution"
+        },
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {
+            "EquipmentUsed": "TA TGA-Q50 thermobalance",
+            "Description": "Samples of approximately 10–15mg were heated at various heating rates under nitrogen purge (70ml/min). Isothermal TGA was carried out by heating the sample to 220°C for 2h under nitrogen purge."
+        },
+        "Dynamic mechanical analysis": {
+            "EquipmentUsed": "Du-Pont 2980 Dynamic Mechanical Analyzer",
+            "Description": "Heating rate of 10°C/min"
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

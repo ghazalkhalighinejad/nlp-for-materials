@@ -1,0 +1,45 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "JEOL JEM-100 CX II"
+        },
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "JEOL JSM-6300"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Inductively coupled plasma spectroscopy": {
+            "EquipmentUsed": "Perkin Elmer Optima 3000 ICP",
+            "ElementsMeasured": ["Ca", "Mg", "Fe", "Al", "Si"]
+        },
+        "Carbon, hydrogen and nitrogen analyser": {},
+        "Dielectric and impedance spectroscopy analysis": {},
+        "Surface chemical composition analysis": {
+            "EquipmentUsed": "PHI 5600 multi-technique system",
+            "Description": "Equipped with an Al monochromatic X-ray source"
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "EquipmentUsed": "TA 2910",
+            "Description": "All tests were performed in nitrogen atmosphere with a sample weight about 8-10mg"
+        },
+        "Thermogravimetric analysis": {
+            "EquipmentUsed": "TA TGA 2950"
+        },
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Nitrogen adsorption method (BET)": {
+            "EquipmentUsed": "Beckman SA 3100"
+        },
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

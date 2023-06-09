@@ -1,0 +1,43 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "JEOL JEM-2100F FAST TEM",
+            "Sample": "Carbon nanofibers dispersed on a copper grid"
+        },
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "LEO Gemini 1525 SEM",
+            "Voltage": "3kV",
+            "WorkingDistance": "5mm"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {
+            "EquipmentUsed": "RSA3 (TA Instruments)",
+            "Method": "Three-point bending",
+            "Span": "40mm",
+            "TemperatureRange": "30°C to 320°C",
+            "HeatingRate": "3°Cmin−1",
+            "StrainAmplitude": "0.1%",
+            "Frequency": "1Hz"
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

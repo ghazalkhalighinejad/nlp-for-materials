@@ -1,5 +1,0 @@
-Please fill out the table of materials characterization according to the paper split.
-
-Paper split: [PAPER SPLIT]
-
-Characterization: [TABLE SPLIT]

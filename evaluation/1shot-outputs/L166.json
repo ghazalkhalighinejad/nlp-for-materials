@@ -1,0 +1,37 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "JSM 7000F"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {
+            "EquipmentUsed": "Kratos Axis Ultra X-ray photoelectron spectrometer"
+        },
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {
+            "EquipmentUsed": "LabRAM T6400"
+        },
+        "Dielectric and impedance spectroscopy analysis": {
+            "Equipment": "Netzsch LFA 457 Laser Flash Apparatus",
+            "Description": "The thermal conductive properties of the composites were measured"
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

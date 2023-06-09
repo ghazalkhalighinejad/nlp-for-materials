@@ -1,0 +1,50 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "JEOL-2010"
+        },
+        "Scanning electron microscopy": {},
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "EquipmentUsed": "Perkin Elmer Spectrum One FTIR Spectrophotometer"
+        },
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {
+            "EquipmentUsed": "Perkin Elmer Series 7 instrument",
+            "Description": "The sample was heated from 30 to 700°C under a 60 ml/min nitrogen flow at a heating rate of 10°C/min."
+        },
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {
+            "EquipmentUsed": "Bruker D8 Discover XRD diffractometer",
+            "Description": "The X-ray powder diffraction patterns of the synthesized particles were obtained using Cu Kα radiation (λ = 1.5405 Å) and operating at an accelerating voltage of 40 kV, in the 2θ range from 10 to 80° (step of 0.01°)."
+        }
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {},
+        "Refractive index dispersion measurement": {
+            "EquipmentUsed": "Variable angle spectroscopy ellipsometer (VASE, J.A. Woollam Co., Inc. EC-400)",
+            "Description": "The refractive index dispersion of the composites was measured by VASE on a spin-coated sample on a Si wafer. The measured results were fitted with the Cauchy model."
+        },
+        "Transmittance spectra measurement": {
+            "EquipmentUsed": "Perkin–Elmer Lambda 950 spectrophotometer",
+            "Description": "Transmittance spectra were obtained using air as the reference. The nanocomposite samples were placed in perpendicular to the incident light to measure the transmittance."
+        },
+        "Graft density estimation": {
+            "EquipmentUsed": "TGA",
+            "Description": "Graft density of PGMA chains was estimated based on TGA weight loss due to decomposition of the grafted chains."
+        }
+    }
+}

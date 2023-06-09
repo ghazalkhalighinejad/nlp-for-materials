@@ -1,0 +1,76 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "JEOL 200CX"
+        },
+        "Scanning electron microscopy": {},
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {
+            "Equipment": "Solartron 1226 bridge",
+            "Description": "AC complex electrical conductivity measurements were performed at room temperature for several frequencies ranging from 10mHz to 1MHz"
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "EquipmentUsed": "Perkin-Elmer Pyris Diamond",
+            "HeatingRate": "10K/min"
+        },
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {
+            "EquipmentUsed": "DMA",
+            "Mode": "Torsion mode",
+            "Frequency": "0.1Hz",
+            "TemperatureRange": "200K to 450K",
+            "HeatingRate": "1K/min",
+            "StorageModulus": "<G'>",
+            "LossModulus": "<G>''",
+            "ComplexShearModulus": "<G>*",
+            "LossFactor": "tan(<δ>)",
+            "MainRelaxationTemperature": "<T>α"
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}
+
+Materials: {
+    "Cellulose nanofibrils": {
+        "Source": "Centre de Recherche sur les Macromolécules Végétales (CERMAV, CNRS, B.P. 53, 38041 Grenoble Cedex, France)",
+        "ChemicalTreatment": "Described by Dinand et al. [bib6]",
+        "Observation": "TEM observation presented in [fig1]",
+        "RelativeDensity": "1.58gcm−3"
+    },
+    "Multi-walled carbon nanotubes": {
+        "Synthesis": "Synthesized at Ecole Polytechnique Fédérale de Lausanne (EPFL) from the catalytic decomposition of acetylene at 720°C on supported cobalt/iron catalyst as already described [bib22]",
+        "Purification": "Sonicated in 30% HNO3 for 3h then filtered and washed with distilled water and finally dried at 120°C",
+        "Observation": "Purified multi-walled carbon nanotubes used in this study are pure, very long (mean length around 8μm), flexible and entangled. Couteau and co-workers [bib22] previously showed by energy dispersive X-ray (EDX) analysis that with this purification process the Fe (<K>α 6.4eV and <K>β 7.06eV) and Co (<K>α 6.93eV and <K>β 7.65eV) peaks are drastically reduced in the purified sample. This means that the metallic catalysts are mainly removed by the purification step. Image analysis made on several TEM pictures gives a diameter distribution between 8nm and 105nm with a mean value around 32nm. The relative density of MWNTs can be estimated to 2gcm−3 by taking into account the volume of graphite (relative density 2.2gcm−3) in a nanotube.",
+        "Dispersion": "Dispersed in a distilled water solution of 1.2gL−1 sodium dodecylbenzene sulfonate (SDBS: C18H29SO3Na) surfactant using a sonication step for 10min with 20mL suspension volumes, using a Branson Sonifier with a 13mm probe tip at 20KHz and a power source of 25W. Several weight ratios of nanotubes to surfactant were investigated for solution stability and an optimum ratio of five (5:1) was chosen to obtain an aqueous suspension stable for at least 3 weeks. This weight ratio corresponds to six surfactant molecules per nm2 of available nanotube surface (calculation made with an average tube diameter of 32nm), or in other words a surface available for each molecule of 14Å2, which seems reasonable. The quality and the homogeneity of this MWNTs aqueous suspension was established by new environmental scanning electron microscopy observations. Bogner et al. [bib23] have developed a new device which allowed the observation of aqueous dispersion in transmission. Latex and carbon nanotubes dispersion previously mentioned were observed and found to present a good state of dispersion without aggregates."
+    },
+    "The latex matrix": {
+        "Preparation": "Prepared by emulsion copolymerization of styrene (35wt%) and butyl acrylate (65wt%) at the LCPP (Laboratoire de Chimie et Procédés de Polymérisation, UMR CNRS 140-CPE Lyon, BP 2077, 69616 Villeurbanne Cedex, France). The polymerization occurs in a miscellar aqueous solution of a surfactant mixture: an anionic (C12H25O(CH2CH2O)4SO3Na) and a non-ionic (C12H25O(CH2CH2O)19H). A surfactant-stabilized aqueous suspension of poly(styrene-co-butyl acrylate), P(S-BuA), with a relative density of 1.07gcm−3 is obtained containing 43wt% of spherical polymer particles with an average diameter of (145±11)nm (determined by light scattering). The glass transition temperature of P(S-BuA) was determined by differential scanning calorimetry and found to be 266K."
+    }
+}
+
+Composite processing: {
+    "Method 1": {
+        "Description": "The mixture was cast in an aluminum mold with a teflon coating and put in a drying oven at 35°C under vacuum for five days to allow slow water evaporation and film formation (i.e. polymer particles coalescence). So-called evaporated films (or materials E) were obtained."
+    },
+    "Method 2": {
+        "Description": "The suspension mixture was first freeze-dried to allow water sublimation, and a compact soft powder was obtained. This powder was then pressed at 100°C for 5min under 1MPa after 45min of thermal stabilization without pressure. This second type of nanocomposite materials is referred as FP materials."
+    },
+    "Reinforcement": {
+        "Cellulose nanofibrils": {
+            "Content": "Up to

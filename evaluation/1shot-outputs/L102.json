@@ -1,0 +1,57 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "Jeol JSM-6400",
+            "Manufacturer": "Jeol Ltd.",
+            "Location": "Japan"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {
+            "Equipment": "Agilent E4991A RF Impedance/Material Analyzer",
+            "Manufacturer": "Agilent Technologies Inc.",
+            "Location": "USA",
+            "Description": "The relative permittivity and the loss tangent at a frequency of 1GHz were measured at room temperature"
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {
+            "EquipmentUsed": "Siemens D5000",
+            "Manufacturer": "Siemens AG",
+            "Location": "Germany",
+            "DataFile": "JCPDS data file (International Center for Diffraction Data 1992, USA)"
+        }
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {
+            "EquipmentUsed": "HAAKE Rheocord mixer system (CG-5902 Torque Rheometer)",
+            "Manufacturer": "Thermo Electron Corporation",
+            "Location": "USA"
+        },
+        "Electrometry": {
+            "EquipmentUsed": "HP 4284A precision LCR meter",
+            "Manufacturer": "Agilent Technologies Inc.",
+            "Location": "USA",
+            "TemperatureControlSystem": {
+                "TemperatureController": "TMS94 temperature controller",
+                "CoolingPump": "LNP94 automated liquid nitrogen cooling pump",
+                "Manufacturer": "Linkam Scientific instruments Ltd.",
+                "Location": "UK"
+            },
+            "Description": "The dielectric properties were measured as a function of temperature at 0.1MHz"
+        }
+    }
+}

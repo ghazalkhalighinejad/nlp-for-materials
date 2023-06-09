@@ -1,0 +1,37 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {},
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {
+            "EquipmentUsed": "Nicolet 4700 FT-IR spectrometer",
+            "Description": "Spectra were obtained in transmission mode"
+        },
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "EquipmentUsed": "TA Instruments model Q100",
+            "Description": "Used to check the glass transition temperature (Tg) to ensure complete curing"
+        },
+        "Thermogravimetric analysis": {
+            "EquipmentUsed": "TA Instruments model Q50 TGA",
+            "Description": "Performed in N2 for both treated and untreated nanoparticles to determine the surface coverage of the silane coupling agent on the nanoparticles. A 10-50mg sample was heated from 25°C to 900°C with a constant heating rate of 10°C/min."
+        },
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

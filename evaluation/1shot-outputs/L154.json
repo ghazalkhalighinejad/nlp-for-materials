@@ -1,0 +1,29 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "Not specified"
+        },
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "Not specified"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {
+            "EquipmentUsed": "Reinshaw S2000",
+            "Description": "Polarized Raman spectroscopy with 514nm excitation was used to monitor the position of the second order disorder peak as a function of the applied composite strain."
+        },
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {
+            "Description": "Verified that stress crystallization was not induced within the samples as noted by the absence of a melting endotherm."
+        },
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {
+            "EquipmentUsed": "Rheometrics DMTA-V",
+            "Description": "Temperature and frequency dependent tests were completed in tensile mode. Two distinct dynamic mechanical tests were done as described below. The first mode of testing consisted of temperature sweeps to measure the storage (E′) and loss (E″) moduli as a function of temperature. In these tests, the samples were subjected to a sinusoidal strain of 0.03% (to ensure linear viscoelastic behavior) at a frequency of 1Hz. The temperature scan rate for these tests was 2°C/min. The loss tangent (tanδ) curve is defined as the ratio of the loss modulus to the storage modulus. Finally, the glass transition temperature (Tg) of each sample is defined here as the peak of the loss modulus curve as a function of temperature. For

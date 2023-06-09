@@ -1,0 +1,41 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "JEOL CX100",
+            "Voltage": "100 kV"
+        },
+        "Scanning electron microscopy": {},
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {
+            "EquipmentUsed": "TA Instruments SDT 2960 Simultaneous DTA-TGA",
+            "Atmosphere": "Nitrogen",
+            "TemperatureRange": "Room temperature to 700°C"
+        },
+        "Dynamic mechanical analysis": {
+            "EquipmentUsed": "TA Instruments DMA 2980 Dynamic Mechanical Analyzer",
+            "Atmosphere": "Nitrogen",
+            "TemperatureRange": "Room temperature to 150°C",
+            "HeatingRate": "3°C/min",
+            "Frequency": "1 Hz"
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

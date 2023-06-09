@@ -1,0 +1,43 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "HITACHI H-600",
+            "Description": "Used to observe the morphology of the composites"
+        },
+        "Scanning electron microscopy": {},
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {
+            "EquipmentUsed": "Kratos AXIS 165",
+            "Description": "Used to investigate the oxidation state of titanium"
+        },
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {
+            "EquipmentUsed": "TA Instruments DEA 2970",
+            "Description": "Dielectric measurements were performed using a dielectric analyzer"
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {
+            "EquipmentUsed": "SHIMADZU TGA-50",
+            "Description": "Used to investigate the thermal stability of the composite"
+        },
+        "Dynamic mechanical analysis": {
+            "EquipmentUsed": "TA Instruments DMA Q800",
+            "Description": "Tensile strength and ultimate elongation, as well as storage and loss modulus transitions were studied"
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

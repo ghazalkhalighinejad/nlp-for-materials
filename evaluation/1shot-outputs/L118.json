@@ -1,0 +1,35 @@
+Characterization: {
+    "Microscopy": {
+        "Transmission electron microscopy": {
+            "EquipmentUsed": "Not specified"
+        },
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "Philips XL30, The Netherlands"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {}
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {},
+        "Dynamic mechanical analysis": {
+            "Equipment": "EPLEXOR 500 N",
+            "Description": "Tensile DMTA tests were performed to generate thermo-mechanical data for the nanocomposites. The storage modulus (E′), complex modulus (E*) and the loss tangent (tan δ) were determined as a function of temperature. Three specimens were tested for each type of material (LY564 and Epon 815 and their nanocomposites)."
+        }
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {}
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}

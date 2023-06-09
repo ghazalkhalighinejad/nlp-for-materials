@@ -1,0 +1,39 @@
+{
+    "Microscopy": {
+        "Transmission electron microscopy": {},
+        "Scanning electron microscopy": {
+            "EquipmentUsed": "Cambridge Stereoscan S-360"
+        },
+        "Atomic force microscopy": {},
+        "Optical microscopy": {}
+    },
+    "Spectroscopy": {
+        "Fourier transform infrared spectroscopy": {},
+        "Xray photoelectron spectroscopy": {},
+        "Nuclear magnetic resonance": {},
+        "Raman spectroscopy": {},
+        "Dielectric and impedance spectroscopy analysis": {
+            "Equipment": "HP4194A",
+            "Description": "The capacitance of the electroded specimen was measured as a function of frequency (100Hz–1MHz) using an impedance gain-phase analyzer at room temperature. A two terminal capacitor configuration was employed for this measurement. Theoretical models like Maxwell’s, Clausius–Mossotti, Effective medium theory, logarithmic mixture rule and Yamada were employed to rationalize the dielectric behaviour of the composites under investigation."
+        }
+    },
+    "Thermochemical": {
+        "Differential scanning calorimetry": {},
+        "Thermogravimetric analysis": {
+            "EquipmentUsed": "TA Instruments TGA Q500",
+            "Description": "The experiments were carried out at a heating rate of 10°Cmin−1 in flowing N2 atmosphere (flow rate: 50cm3 min−1)."
+        },
+        "Dynamic mechanical analysis": {}
+    },
+    "Scattering and diffraction": {
+        "Xray diffraction and scattering": {
+            "EquipmentUsed": "XPERT-PRO Diffractometer (Philips, Netherlands)",
+            "Description": "X-ray powder diffraction (XRD) studies were carried out using an XPERT-PRO Diffractometer with Cu Kα1 radiation (<i>λ</i>=0.154056nm) in a wide range of 2<i>θ</i> (5°⩽2<i>θ</i>⩽85°)."
+        }
+    },
+    "Others": {
+        "Pulsed electro acoustic": {},
+        "Rheometry": {},
+        "Electrometry": {}
+    }
+}
