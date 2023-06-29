@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "cellulose nanocrystals"
+        ],
+        "Filler abbreviation": [
+            "CNC"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.16",
+            "0.23",
+            "0",
+            "0.41",
+            "0.12"
+        ],
+        "volume fraction": [
+            "0.09465020576131687",
+            "0.0",
+            "0.34758569848875775",
+            "0.186333215921099",
+            "0.12742382271468145"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

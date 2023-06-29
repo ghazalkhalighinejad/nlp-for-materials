@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "low density polyethylene"
+        ],
+        "Abbreviation": [
+            "LDPE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "magnesium oxide"
+        ],
+        "Filler abbreviation": [
+            "MgO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.047619",
+            "0.019608",
+            "0.001996",
+            "0",
+            "0.009901",
+            "0.004975",
+            "0.090909"
+        ],
+        "volume fraction": [
+            "0.0005137003967425836",
+            "0.005113425237959588",
+            "0.00256324787367168",
+            "0.0",
+            "0.025054439361524822",
+            "0.00128323510944717",
+            "0.012686142391821031"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

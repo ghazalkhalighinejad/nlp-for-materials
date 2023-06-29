@@ -1,0 +1,45 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polyvinylidene fluoride"
+        ],
+        "Abbreviation": [
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GNPs"
+        ],
+        "Particle diameter": [
+            "10"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.015",
+            "0.025",
+            "0.02",
+            "0.01",
+            "0.03",
+            "0.035"
+        ],
+        "volume fraction": [
+            "0.011159355148691765",
+            "0.026174572826965156",
+            "0.02240607453576303",
+            "0.018647397689054643",
+            "0.007429913361903119",
+            "0.029952931108258456",
+            "0.014898503941895834"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

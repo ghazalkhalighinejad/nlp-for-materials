@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyurethanes"
+        ],
+        "Abbreviation": [
+            "PU"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titanium dioxide"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "164"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.05",
+            "0.02",
+            "0.07",
+            "0.01",
+            "0.03",
+            "0.1",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.0032608178226305523",
+            "0.023797707082237333",
+            "0.0016248784306283656",
+            "0.03473630831643002",
+            "0.016760459995106437",
+            "0.006566334355828221",
+            "0.009917475025336615"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

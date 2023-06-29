@@ -1,0 +1,36 @@
+{
+    "Matrix": {
+        "Chemical name": [],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "titania"
+        ],
+        "Filler abbreviation": [
+            "TiO2"
+        ],
+        "Particle diameter": [
+            "5"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.02"
+        ],
+        "volume fraction": [
+            "0.0063837378013395256",
+            "0.012947368215334765"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "anthracenemethylphosphonic acid",
+            "polydimethylsiloxane"
+        ],
+        "PST abbreviation": [
+            "PDMS"
+        ]
+    }
+}

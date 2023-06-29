@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Styrene acrylonitrile resin",
+            "polystyrene",
+            "Poly(methyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PS",
+            "PMMA",
+            "SAN"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "triphenyl phosphate",
+            "mineral oil"
+        ],
+        "Filler abbreviation": [
+            "TPP",
+            "oil"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.08"
+        ],
+        "volume fraction": [
+            "0.04861630516080778",
+            "0.07118412046543464",
+            "0.03902273498473023",
+            "0.036734693877551024",
+            "0.035422343324250684"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

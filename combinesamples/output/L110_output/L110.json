@@ -1,0 +1,47 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol-A diglycidyl ether"
+        ],
+        "Abbreviation": [
+            "epoxy"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "ZnO",
+            "TiO2",
+            "Al2O3"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01",
+            "0.001",
+            "0.05",
+            "0.1",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.0002673353994653292",
+            "0.0014355039508117584",
+            "0.0010111675853675995",
+            "0.00020158700709300832",
+            "0.01483328957731688",
+            "0.0028813300015299095",
+            "0.0002862803317811704",
+            "0.0020304750952346725",
+            "0.010490159673226885",
+            "0.013865030674846623",
+            "0.0026911169326030004",
+            "0.028826530612244893",
+            "0.0013406097995017202"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

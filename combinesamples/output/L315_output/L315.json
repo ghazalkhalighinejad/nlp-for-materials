@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol-A phthalonitrile resin"
+        ],
+        "Abbreviation": [
+            "P(Baph)"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titanium dioxide"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "60"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.02",
+            "0.06"
+        ],
+        "volume fraction": [
+            "0.017785682525566917",
+            "0.011682242990654205",
+            "0.005756223917110376"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

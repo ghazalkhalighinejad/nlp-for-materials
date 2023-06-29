@@ -1,0 +1,32 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "low density polyethylene"
+        ],
+        "Abbreviation": [
+            "LDPE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "6",
+            "12"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.125"
+        ],
+        "volume fraction": [
+            "0.04725218284540319"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

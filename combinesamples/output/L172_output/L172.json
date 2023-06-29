@@ -1,0 +1,55 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polyvinylidene Fluoride"
+        ],
+        "Abbreviation": [
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Iron (II,III) Oxide",
+            "Iron Oxide - Barium Titanate core-shell nanoparticles",
+            "Barium Titanate"
+        ],
+        "Filler abbreviation": [
+            "Fe3O4",
+            "BaTiO3",
+            "Fe3O4@BaTiO3"
+        ],
+        "Particle diameter": [
+            "100",
+            "10"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.4501857480580884",
+            "0.5329333283643275",
+            "0.54956224212539",
+            "0.15867158671586717",
+            "0.23262588431127754",
+            "0.344689378757515",
+            "0.3297218155197657",
+            "0.4336687787302771",
+            "0.2208842613550626",
+            "0.14993342210386154",
+            "0.11802378774016467",
+            "0.11122818570958182",
+            "0.13939067133998384"
+        ],
+        "volume fraction": [
+            "0.186",
+            "0.078",
+            "0.128",
+            "0.036",
+            "0.254",
+            "0.05"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

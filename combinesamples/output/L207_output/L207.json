@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyurethane"
+        ],
+        "Abbreviation": [
+            "PU"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene oxide"
+        ],
+        "Filler abbreviation": [
+            "GO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.015",
+            "0.03",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.003591464373722016",
+            "0.010804984489195014",
+            "0.02170239729644102"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

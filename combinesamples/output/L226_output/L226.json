@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "diglycidyl ether of bisphenol A"
+        ],
+        "Abbreviation": [
+            "DGEBA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene platelets"
+        ],
+        "Filler abbreviation": [
+            "GP"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.025",
+            "0.055",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.005009686872403719",
+            "0.02819278146851957",
+            "0.02034642947171306",
+            "0.012619635259037558"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

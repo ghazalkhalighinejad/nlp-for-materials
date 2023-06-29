@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyacrylamide"
+        ],
+        "Abbreviation": [
+            "PAAM"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0025",
+            "0.0005",
+            "0.00125"
+        ],
+        "volume fraction": [
+            "0.0002547794742106555",
+            "0.0006371831783640911",
+            "0.0012751487673561914"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

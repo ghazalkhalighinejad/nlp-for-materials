@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(imino-1-oxododecamethylene)",
+            "poly(butylene terephthalate)",
+            "low density polyethylene",
+            "polycarbonate",
+            "poly(ether ether ketone)"
+        ],
+        "Abbreviation": [
+            "PC",
+            "PEEK",
+            "LDPE",
+            "PA12",
+            "PBT"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWCNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

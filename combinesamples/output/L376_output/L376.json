@@ -1,0 +1,29 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polyvinyl acetate"
+        ],
+        "Abbreviation": [
+            "PVAc"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Silicon dioxide"
+        ],
+        "Filler abbreviation": [
+            "Silica, SiO2"
+        ],
+        "Particle diameter": [
+            "25.0"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

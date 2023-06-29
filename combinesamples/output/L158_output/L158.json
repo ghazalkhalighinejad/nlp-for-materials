@@ -1,0 +1,28 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polyvinylidene fluoride",
+            "Polyvinylidene \u00a0fluoride"
+        ],
+        "Abbreviation": [
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "barium titanate"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "1"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

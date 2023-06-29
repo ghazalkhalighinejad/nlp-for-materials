@@ -1,0 +1,36 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "poly(lactic acid)"
+        ],
+        "Abbreviation": [
+            "PMMA",
+            "PLA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "cellulose nanowhiskers",
+            "single-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "aSWNT",
+            "SWNT",
+            "CNW"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.04201680672268907"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(ethylene terephthalate)"
+        ],
+        "Abbreviation": [
+            "PET"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Silica"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "12.0",
+            "14.0"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0025",
+            "0.005",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.0051571802358651555",
+            "0.0012845821802004325",
+            "0.0025722986136067034"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

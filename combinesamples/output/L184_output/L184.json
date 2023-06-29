@@ -1,0 +1,31 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy",
+            "polystyrene"
+        ],
+        "Abbreviation": [
+            "PS"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Methyl(triphenyl)phosphonium exchanged cellulose nanocrystals",
+            "Methyl(triphenyl)phosphonuim exchanged cellulose nanocrystals",
+            "sulfated cellulose nanocrystals"
+        ],
+        "Filler abbreviation": [
+            "MePh3P-CNC",
+            "Na-CNC"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

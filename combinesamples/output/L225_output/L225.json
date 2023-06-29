@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Bisphenol A diglycidyl ether"
+        ],
+        "Abbreviation": [
+            "DGEBA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-wall carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "CNT"
+        ],
+        "Particle diameter": [
+            "15"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0025",
+            "0.0005",
+            "0.001",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.00021736914089175204",
+            "0.0010880764157029646",
+            "0.0021792374597419625",
+            "0.0004348612484750993"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

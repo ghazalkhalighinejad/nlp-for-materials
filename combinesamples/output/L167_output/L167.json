@@ -1,0 +1,38 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyimide",
+            "poly(vinylidene flouride)"
+        ],
+        "Abbreviation": [
+            "PVDF",
+            "PI"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "barium titanate"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3"
+        ],
+        "Particle diameter": [
+            "65",
+            "40",
+            "125"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.8048128342245989",
+            "0.7818181818181819"
+        ],
+        "volume fraction": [
+            "0.5"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

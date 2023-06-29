@@ -1,0 +1,30 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(imino-1-oxoundecamethylene)"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "carbon black",
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "7",
+            "12",
+            "6"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

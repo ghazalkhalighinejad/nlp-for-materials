@@ -1,0 +1,31 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy"
+        ],
+        "Abbreviation": [
+            "epoxy"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "carbon nanotube"
+        ],
+        "Filler abbreviation": [
+            "CNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.006301232364913846"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

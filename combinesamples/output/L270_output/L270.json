@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol-A epoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.015",
+            "0.001",
+            "0.02",
+            "0.01",
+            "0.03",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.0004348612484750993",
+            "0.0021792374597419625",
+            "0.01326342971164756",
+            "0.006574991757016233",
+            "0.008791721777017038",
+            "0.0043708660503616594"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "nitric acid (65%)",
+            "sulfur acid (98%)"
+        ],
+        "PST abbreviation": []
+    }
+}

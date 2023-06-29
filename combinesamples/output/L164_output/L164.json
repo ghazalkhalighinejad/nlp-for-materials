@@ -1,0 +1,48 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly[chlorotrifluoroethylene-co-(vinylidene fluoride)]",
+            "poly[chlorotrifluoroethylene-co-trifluoroethylene-co-(vinylidene fluoride)]"
+        ],
+        "Abbreviation": [
+            "P(VDF-TrFE-CTFE)",
+            "P(VDF-CTFE)"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titania"
+        ],
+        "Filler abbreviation": [
+            "TiO2"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.37007874015748027",
+            "0.20524017467248912",
+            "0.20704845814977973",
+            "0.39596630074036254",
+            "0.2908549163419666",
+            "0.05683192261185007",
+            "0.10899252769904666",
+            "0.11007025761124123",
+            "0.501779359430605",
+            "0.49901690916240665"
+        ],
+        "volume fraction": [
+            "0.025",
+            "0.2",
+            "0.22",
+            "0.3",
+            "0.05",
+            "0.1",
+            "0.15"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

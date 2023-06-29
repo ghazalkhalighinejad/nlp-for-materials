@@ -1,0 +1,53 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polypropylene"
+        ],
+        "Abbreviation": [
+            "PP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphite nanoplatelets",
+            "carbon black",
+            "carbon nanofibers"
+        ],
+        "Filler abbreviation": [
+            "xGnP-1",
+            "CB",
+            "xGnP-15",
+            "VGCF"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.020470829068577282",
+            "0.02269374787246114",
+            "0.06637902422834385",
+            "0.10793308148947653",
+            "0.20345879959308238",
+            "0.36496350364963503",
+            "0.4338394793926248",
+            "0.07936507936507937",
+            "0.04051316677920324",
+            "0.06014032743067156",
+            "0.09819967266775778"
+        ],
+        "volume fraction": [
+            "0.05",
+            "0.25",
+            "0.04",
+            "0.02",
+            "0.2",
+            "0.01",
+            "0.03",
+            "0.1"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

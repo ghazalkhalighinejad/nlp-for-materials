@@ -1,0 +1,24 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyrotaxane",
+            "pullulan"
+        ],
+        "Abbreviation": [
+            "PR"
+        ]
+    },
+    "Filler": {
+        "Filler name": [],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

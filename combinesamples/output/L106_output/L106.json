@@ -1,0 +1,45 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "neopentyl glycol diglycidyl ether"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "silver"
+        ],
+        "Filler abbreviation": [
+            "Ag@C"
+        ],
+        "Particle diameter": [
+            "85"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.7819053325344517",
+            "0.5555555555555556",
+            "0.0",
+            "0.6144067796610169",
+            "0.6624188506852607",
+            "0.38637228778073845",
+            "0.7254030016675931",
+            "0.6897983840519518"
+        ],
+        "volume fraction": [
+            "0.19",
+            "0.21",
+            "0.16",
+            "0.07",
+            "0.3",
+            "0",
+            "0.24",
+            "0.13"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

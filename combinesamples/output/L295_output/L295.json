@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyurethane"
+        ],
+        "Abbreviation": [
+            "PU"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "7"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.1",
+            "0.15",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.0836045565500407",
+            "0.05432196669310072",
+            "0.026488785769528237"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

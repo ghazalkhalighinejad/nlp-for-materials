@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polypropylene"
+        ],
+        "Abbreviation": [
+            "PP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "montmorillonite"
+        ],
+        "Filler abbreviation": [
+            "nanoclay"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.06",
+            "0.03",
+            "0.09"
+        ],
+        "volume fraction": [
+            "0.02308508756412524",
+            "0.03532118368819921",
+            "0.011320263705759889"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

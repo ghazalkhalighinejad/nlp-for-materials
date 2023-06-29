@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Poly(methyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "sodium montmorillonite"
+        ],
+        "Filler abbreviation": [
+            "Na-MMT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01",
+            "0.1",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.025109170305676855",
+            "0.004918733960650128",
+            "0.0515695067264574"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

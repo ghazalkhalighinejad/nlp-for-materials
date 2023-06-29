@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Poly[imino(1,6-dioxo-1,6-hexanediyl)imino-1,6-hexanediyl]"
+        ],
+        "Abbreviation": [
+            "nylon 6,6"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "single-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "SWNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.016",
+            "0.047"
+        ],
+        "volume fraction": [
+            "0.012096774193548388",
+            "0.009661835748792272",
+            "0.02874031797798614"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

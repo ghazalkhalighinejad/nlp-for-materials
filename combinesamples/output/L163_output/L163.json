@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly[styrene-b-(ethylene-ran-butylene)-b-styrene]"
+        ],
+        "Abbreviation": [
+            "S-SEBS"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titania"
+        ],
+        "Filler abbreviation": [
+            "TiO2"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0026",
+            "0.021",
+            "0.064",
+            "0.043"
+        ],
+        "volume fraction": [
+            "0.009573697654162711",
+            "0.0045934408260982435",
+            "0.014496505306756407",
+            "0.0005604818153735944"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

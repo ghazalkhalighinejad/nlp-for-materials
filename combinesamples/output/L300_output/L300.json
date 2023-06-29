@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(vinyl alcohol)"
+        ],
+        "Abbreviation": [
+            "PVA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "TEOS"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.4",
+            "0.5",
+            "0.2",
+            "0.3",
+            "0.1"
+        ],
+        "volume fraction": [
+            "0.3134715025906736",
+            "0.10245554614733278",
+            "0.1636609558160505",
+            "0.04828411811652036",
+            "0.23336547733847637"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

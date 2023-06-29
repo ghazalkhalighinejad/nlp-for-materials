@@ -1,0 +1,51 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol-A epoxy"
+        ],
+        "Abbreviation": [
+            "epoxy"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silicon dioxide"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.013958143128028656",
+            "0.00467768128221422",
+            "0.03673158223023079",
+            "0.007007121703567904",
+            "0.0676250425314733",
+            "0.02314006287111422",
+            "0.0023419824660633488"
+        ],
+        "volume fraction": [
+            "0.001",
+            "0.006",
+            "0.003",
+            "0.01",
+            "0.03",
+            "0.002",
+            "0.016"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "poly(glycidyl methacrylate)",
+            "poly(n-hexyl methacrylate)",
+            "4-Cyanopentanoic acid dithiobenzoate"
+        ],
+        "PST abbreviation": [
+            "CPDB",
+            "PHMA",
+            "PGMA"
+        ]
+    }
+}

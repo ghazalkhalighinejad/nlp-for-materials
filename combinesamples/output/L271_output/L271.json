@@ -1,0 +1,56 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "diglycidyl ether of bisphenol F",
+            "diglycidyl ether of bisphenol A"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "carbon black",
+            "silica",
+            "silver",
+            "aluminum"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "65",
+            "30",
+            "100"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.75",
+            "0.72",
+            "0.68",
+            "0.4",
+            "0.02",
+            "0.2",
+            "0.45",
+            "0.3",
+            "0.41",
+            "0.05",
+            "0.1"
+        ],
+        "volume fraction": [
+            "0.013734312100402558",
+            "0.2299139514647587",
+            "0.09633418584825235",
+            "0.15451230628988152",
+            "0.034668260609683206",
+            "0.021950271950271952",
+            "0.24892703862660942",
+            "0.04523618895116093",
+            "0.22135161606268364",
+            "0.1901272657153876",
+            "0.2600896860986547",
+            "0.22123331214240305"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

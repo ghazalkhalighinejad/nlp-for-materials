@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(vinylidene fluoride-co-hexafluoropropylene)"
+        ],
+        "Abbreviation": [
+            "P(VDF\u2212HFP)"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Ba0.7Sr0.3TiO3"
+        ],
+        "Filler abbreviation": [
+            "BST"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.06605677384636083",
+            "0.1267751097340563",
+            "0.2345914954610607",
+            "0.18277701948132521"
+        ],
+        "volume fraction": [
+            "0.025",
+            "0.075",
+            "0.10",
+            "0.05"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

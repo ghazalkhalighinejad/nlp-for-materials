@@ -1,0 +1,31 @@
+{
+    "Matrix": {
+        "Chemical name": [],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "carbon nanofibers"
+        ],
+        "Filler abbreviation": [
+            "CNF"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0068"
+        ],
+        "volume fraction": [
+            "0.0038622746483370544",
+            "0.003814379928850265",
+            "0.003961765335126379",
+            "0.003767658511048868",
+            "0.003911387428709369"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

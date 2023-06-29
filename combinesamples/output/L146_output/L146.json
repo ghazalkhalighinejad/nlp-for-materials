@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(glycidyl methacrylate)",
+            "commercial epoxy resin"
+        ],
+        "Abbreviation": [
+            "epoxy",
+            "PGMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Titanium Dioxide"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "5.4"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.35",
+            "0.3",
+            "0.1",
+            "0.55"
+        ],
+        "volume fraction": [
+            "0.11122047244094488",
+            "0.031423804226918796",
+            "0.254335260115607",
+            "0.1306376360808709"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

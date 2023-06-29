@@ -1,0 +1,30 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly[(butyl acrylate)-co-styrene]"
+        ],
+        "Abbreviation": [
+            "P(S-BuA)"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes",
+            "carbon nanotube",
+            "cellulose nanofibrils"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "32",
+            "30"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(vinylidene flouride)"
+        ],
+        "Abbreviation": [
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphite nanoplates"
+        ],
+        "Filler abbreviation": [
+            "xGnPs"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.020927552787759183",
+            "0.013575151255819824",
+            "0.041629805912229485",
+            "0.031306613802910103",
+            "0.01022384944292915",
+            "0.010492168094092574",
+            "0.011430989429554398",
+            "0.014646338083408357",
+            "0.015047879616963066",
+            "0.0052532108998865484",
+            "0.01250336853699232"
+        ],
+        "volume fraction": [
+            "0.0156",
+            "0.0039",
+            "0.0085",
+            "0.0078",
+            "0.0312",
+            "0.0101",
+            "0.0112",
+            "0.0093",
+            "0.0076",
+            "0.0109",
+            "0.0234"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

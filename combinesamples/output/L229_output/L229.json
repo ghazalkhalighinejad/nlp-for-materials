@@ -1,0 +1,47 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Epoxy resin"
+        ],
+        "Abbreviation": [
+            "EPR"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphite oxide"
+        ],
+        "Filler abbreviation": [
+            "GO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.01",
+            "0.02",
+            "0.004",
+            "0.008",
+            "0.006",
+            "0.05",
+            "0.03",
+            "0.002"
+        ],
+        "volume fraction": [
+            "0.012649725736034928",
+            "0.03198414944806113",
+            "0.0050372219498060885",
+            "0.019046013821001177",
+            "0.0012564909432577584",
+            "0.0025148554514499363",
+            "0.0037750977182373965",
+            "0.006301232364913846",
+            "0.025490638393864198"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

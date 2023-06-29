@@ -1,0 +1,45 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyethylene"
+        ],
+        "Abbreviation": [
+            "PE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWCNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.085",
+            "0.01",
+            "0.001",
+            "0.07",
+            "0.05",
+            "0.03",
+            "0.1",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.001774965272418583",
+            "0.03182484128276087",
+            "0.0003540749407309338",
+            "0.0035614741406008055",
+            "0.025942636158556243",
+            "0.03782894736842105",
+            "0.010825227486664575",
+            "0.01828298887122417"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

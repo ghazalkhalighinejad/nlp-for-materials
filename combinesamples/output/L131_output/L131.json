@@ -1,0 +1,31 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "cycloaliphatic epoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "20"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.2"
+        ],
+        "volume fraction": [
+            "0.15455746367239098"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "phenoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-wall carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWNTs"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.174",
+            "0.015",
+            "0.121",
+            "0.021",
+            "0.055",
+            "0.065",
+            "0.048",
+            "0.057",
+            "0.067",
+            "0.142"
+        ],
+        "volume fraction": [
+            "0.0212577502214349",
+            "0.0065171851966793395",
+            "0.02537723998664356",
+            "0.030005918011548123",
+            "0.024458032240133407",
+            "0.02907580477673936",
+            "0.009155598461610327",
+            "0.05597871883416222",
+            "0.08319387999043748",
+            "0.06654838817661433"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

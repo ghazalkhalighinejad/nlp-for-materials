@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polypropylene"
+        ],
+        "Abbreviation": [
+            "PP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphite nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "ARG"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.028",
+            "0.025"
+        ],
+        "volume fraction": [
+            "0.010938914514807949",
+            "0.009748554524673929"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

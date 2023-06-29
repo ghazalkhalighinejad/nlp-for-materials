@@ -1,0 +1,47 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "3,4-epoxycyclohexylmethyl-3,4-epoxycyclohexanecarboxylate"
+        ],
+        "Abbreviation": [
+            "Epoxy"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Silver"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "40"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.5383535076573263",
+            "0.6410963741089755",
+            "0.3546423108735317",
+            "0.7553787010184123",
+            "0.4609655297697443",
+            "0.7203307707216229",
+            "0.6807682956479455",
+            "0.21314715779540783",
+            "0.5976287246578965"
+        ],
+        "volume fraction": [
+            "0.256",
+            "0.087",
+            "0.0293",
+            "0.192",
+            "0.223",
+            "0.166",
+            "0.115",
+            "0.0577",
+            "0.142"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

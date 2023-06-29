@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyimide"
+        ],
+        "Abbreviation": [
+            "PI"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "TEOS"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.025",
+            "0.2",
+            "0.05",
+            "0.1",
+            "0.15"
+        ],
+        "volume fraction": [
+            "0.12106135986733002",
+            "0.08861015577584463",
+            "0.05768470960094825",
+            "0.028179888052499526",
+            "0.01392996851445473"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

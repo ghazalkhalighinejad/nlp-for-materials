@@ -1,0 +1,31 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "cross-linked polyethylene"
+        ],
+        "Abbreviation": [
+            "XLPE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.125",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.04725218284540319",
+            "0.01794421689096938"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

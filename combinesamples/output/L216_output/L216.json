@@ -1,0 +1,53 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyvinylidene fluoride"
+        ],
+        "Abbreviation": [
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphite",
+            "graphene oxide"
+        ],
+        "Filler abbreviation": [
+            "FGS",
+            "EG"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.08",
+            "0.04",
+            "0.02",
+            "0.14",
+            "0.01",
+            "0.06",
+            "0.12",
+            "0.03",
+            "0.1",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.031692899366142016",
+            "0.004661272160682956",
+            "0.06393907827148963",
+            "0.11337785946969009",
+            "0.08027419500315686",
+            "0.02801531923823514",
+            "0.0373792524149517",
+            "0.015778183558778167",
+            "0.018664150152039427",
+            "0.09675315263081605",
+            "0.009325719075810762",
+            "0.047745927290284505"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

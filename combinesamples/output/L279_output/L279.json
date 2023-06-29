@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Poly(methyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titania"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.01",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.014106967615309126",
+            "0.005517704634871893",
+            "0.002738616879405601"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

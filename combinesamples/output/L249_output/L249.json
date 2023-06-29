@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyamideimide"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "silica",
+            "alumina"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "45",
+            "12"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.1",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.027429012941858223",
+            "0.05619311436485952",
+            "0.03840952123343251",
+            "0.018569373610566237"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

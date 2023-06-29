@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "methyl methacrylate"
+        ],
+        "Abbreviation": [
+            "MMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-wall carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWCNTs"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.001",
+            "0.007",
+            "0.003",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.0013291468418315255",
+            "0.0022177224954199205",
+            "0.00044255450154894073",
+            "0.003108288124794872"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

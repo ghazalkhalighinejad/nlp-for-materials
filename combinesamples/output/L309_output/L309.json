@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(vinyl butyral)"
+        ],
+        "Abbreviation": [
+            "PVB"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silicon dioxide",
+            "titanium dioxide"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "25",
+            "7"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01",
+            "0.07",
+            "0.05",
+            "0.03"
+        ],
+        "volume fraction": [
+            "0.013138506876227899",
+            "0.0025485899390243903",
+            "0.00406195429352365",
+            "0.029495156336142404",
+            "0.007762623331398723",
+            "0.018683895430053884",
+            "0.012333820026127719",
+            "0.02080902372617659"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

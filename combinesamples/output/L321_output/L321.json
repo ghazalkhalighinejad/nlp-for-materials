@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GNPs"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.015",
+            "0.01",
+            "0.002",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.007663531123204937",
+            "0.0025418887246441983",
+            "0.0010152506060614555",
+            "0.005096367840496523"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

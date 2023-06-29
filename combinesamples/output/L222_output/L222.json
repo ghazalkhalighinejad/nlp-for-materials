@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy resin"
+        ],
+        "Abbreviation": [
+            "EPR"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "single-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "SWNT"
+        ],
+        "Particle diameter": [
+            "2"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.0031447416024267386"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

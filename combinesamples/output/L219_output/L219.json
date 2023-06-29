@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polystyrene"
+        ],
+        "Abbreviation": [
+            "PS"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica nanoparticles"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "14"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.005",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.0019682431537311456",
+            "0.007945603178241271",
+            "0.020237400272426546"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

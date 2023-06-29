@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Ethylene vinyl acetate"
+        ],
+        "Abbreviation": [
+            "EVA-45"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "sodium montmorillonite"
+        ],
+        "Filler abbreviation": [
+            "12Me-MMT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.02",
+            "0.06"
+        ],
+        "volume fraction": [
+            "0.00801171605789111",
+            "0.02463793712469092",
+            "0.016221873364730507"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

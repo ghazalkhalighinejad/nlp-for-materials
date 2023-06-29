@@ -1,0 +1,49 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "diglycidyl ether of bisphenol A"
+        ],
+        "Abbreviation": [
+            "DGEBA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "carbon black",
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "40"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.001",
+            "0.02",
+            "0.004",
+            "0.006",
+            "0.003",
+            "0.01",
+            "0.002",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.001330303850817607",
+            "0.002662394269962067",
+            "0.0008702147813296573",
+            "0.0013060614349723952",
+            "0.003996274858833654",
+            "0.006669420999822936",
+            "0.0021792374597419625",
+            "0.001742402047707893",
+            "0.01338386829326069",
+            "0.0004348612484750993",
+            "0.0043708660503616594"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(ethylene oxide)",
+            "diglycidyl ether of bisphenol A epoxy resin"
+        ],
+        "Abbreviation": [
+            "DGEBA",
+            "PEO"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "poly(ethylene glycol)",
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "PEG",
+            "GnPs"
+        ],
+        "Particle diameter": [
+            "5"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.03",
+            "0.01",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.005009686872403719",
+            "0.015182118241382245",
+            "0.02556387575503925"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyphenylsulfone"
+        ],
+        "Abbreviation": [
+            "PPSU"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titanium dioxide"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01",
+            "0.05",
+            "0.03",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.0015193809406028058",
+            "0.0030494291185022343",
+            "0.00927857296986262",
+            "0.015687705217074063"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

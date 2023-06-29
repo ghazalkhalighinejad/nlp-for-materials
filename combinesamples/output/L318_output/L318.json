@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol-A epichlorohydrine epoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "exfoliated graphite nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "xGnP-1"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0909",
+            "0.0654",
+            "0.0291",
+            "0.0476"
+        ],
+        "volume fraction": [
+            "0.047493972454171036",
+            "0.02431726480591759",
+            "0.01472630910676424",
+            "0.03371894473418327"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

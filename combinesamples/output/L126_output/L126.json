@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(vinylidene flouride)"
+        ],
+        "Abbreviation": [
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "CaCu3Ti4O12"
+        ],
+        "Filler abbreviation": [
+            "CCTO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.5452436194895591",
+            "0.6509695290858727",
+            "0.7737204429811434",
+            "0.7366771159874609",
+            "0.4115586690017513"
+        ],
+        "volume fraction": [
+            "0.4",
+            "0.5",
+            "0.55",
+            "0.2",
+            "0.3"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

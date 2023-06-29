@@ -1,0 +1,58 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "sodium polyacrylate",
+            "poly(2-hydroxyethyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PHEMA",
+            "PMMA",
+            "PANa"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "barium titanate"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3"
+        ],
+        "Particle diameter": [
+            "100"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.7602526362448098",
+            "0.5962005942198614",
+            "0.4928366762177651",
+            "0.5731778942469737",
+            "0.772785622593068",
+            "0.8740416210295728",
+            "0.7772756617172369",
+            "0.621900826446281"
+        ],
+        "volume fraction": [
+            "0.4",
+            "0.25",
+            "0.21",
+            "0.16",
+            "0.22",
+            "0.57",
+            "0.38"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "poly(methyl methacrylate)",
+            "sodium polyacrylate",
+            "poly(2-hydroxylethyl methacrylate)"
+        ],
+        "PST abbreviation": [
+            "PHEMA",
+            "PMMA",
+            "PANa"
+        ]
+    }
+}

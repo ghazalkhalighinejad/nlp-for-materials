@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly[(hexafluoro propylene)-co-(vinylidene fluoride)]"
+        ],
+        "Abbreviation": [
+            "P(VDF-HFP)"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "barium titanate"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3"
+        ],
+        "Particle diameter": [
+            "100"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.4581430745814307",
+            "0.7717948717948717",
+            "0.591743119266055",
+            "0.6927502876869965",
+            "0.2731397459165154"
+        ],
+        "volume fraction": [
+            "0.4",
+            "0.5",
+            "0.2",
+            "0.3",
+            "0.1"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

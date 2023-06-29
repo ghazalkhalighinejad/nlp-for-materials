@@ -1,0 +1,32 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyethylene terephthalate"
+        ],
+        "Abbreviation": [
+            "PET"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "montmorillonite"
+        ],
+        "Filler abbreviation": [
+            "N28E",
+            "C30B"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04"
+        ],
+        "volume fraction": [
+            "0.023545706371191136"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

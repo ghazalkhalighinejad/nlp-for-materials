@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "polyurethane"
+        ],
+        "Abbreviation": [
+            "TPU",
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoplatelets",
+            "single-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "GNP",
+            "SWNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.001",
+            "0.005",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.0006045621050764242",
+            "0.006067235599172731",
+            "0.003027604236877988"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

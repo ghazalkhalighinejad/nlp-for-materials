@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyamide 12"
+        ],
+        "Abbreviation": [
+            "PA12"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GNPs"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.08",
+            "0.04",
+            "0.02",
+            "0.06",
+            "0.1"
+        ],
+        "volume fraction": [
+            "0.027651283548855165",
+            "0.018225125410516442",
+            "0.047167608462149166",
+            "0.009010375313355875",
+            "0.037296209449603955"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

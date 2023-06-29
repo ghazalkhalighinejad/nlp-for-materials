@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "low density polyethylene"
+        ],
+        "Abbreviation": [
+            "LDPE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titania"
+        ],
+        "Filler abbreviation": [
+            "TiO2"
+        ],
+        "Particle diameter": [
+            "23"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.011341829454312849"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

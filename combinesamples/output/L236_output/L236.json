@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(dimethyl siloxane)",
+            "Poly(butylene adipate-co-terephthalate)"
+        ],
+        "Abbreviation": [
+            "PBAT",
+            "PDMS"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Sepiolite",
+            "Montmorillonite",
+            "Synthetic fluorine mica",
+            "barium titanate"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3",
+            "MMT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.1",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.04943820224719102",
+            "0.04044117647058824",
+            "0.02634099616858238",
+            "0.024043715846994537",
+            "0.019572953736654807",
+            "0.054027504911591355"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

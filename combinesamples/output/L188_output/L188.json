@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "multi-walled carbon nanotube",
+            "Poly(methyl methacrylate)",
+            "multiwalled carbon nanotube"
+        ],
+        "Abbreviation": [
+            "unfunctionalized MWCNT",
+            "MWCNT",
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "butyl glycidyl ether",
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "BGE"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.02",
+            "0.01",
+            "0.03"
+        ],
+        "volume fraction": [
+            "0.01776061776061776",
+            "0.013243761996161228",
+            "0.004364326375711575",
+            "0.008778625954198472"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

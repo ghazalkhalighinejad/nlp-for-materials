@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Poly(lactic acid)",
+            "Poly(methyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PMMA",
+            "PLA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GNP"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0099",
+            "0.0196"
+        ],
+        "volume fraction": [
+            "0.005328154479399866",
+            "0.010596611462195977"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

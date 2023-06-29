@@ -1,0 +1,45 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "poly(vinyl alcohol)"
+        ],
+        "Abbreviation": [
+            "PVA",
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene oxide"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.72",
+            "0.87",
+            "0.77",
+            "0.44",
+            "0.49",
+            "0.6",
+            "0.66",
+            "0.83"
+        ],
+        "volume fraction": [
+            "0.332334581772784",
+            "0.36648022892819976",
+            "0.6196301564722617",
+            "0.7556809631301731",
+            "0.487248322147651",
+            "0.8011691223574631",
+            "0.5389094007384265",
+            "0.6684027777777777"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

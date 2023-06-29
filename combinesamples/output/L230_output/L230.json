@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "functionalised multi-wall carbon nanotubes",
+            "multi-wall carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWCNT",
+            "functionalised MWCNT"
+        ],
+        "Particle diameter": [
+            "15"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0075",
+            "0.0025",
+            "0.0005",
+            "0.001",
+            "0.0015",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.003273496267828001",
+            "0.00021736914089175204",
+            "0.0010880764157029646",
+            "0.0021792374597419625",
+            "0.0006524764271237721",
+            "0.0004348612484750993"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

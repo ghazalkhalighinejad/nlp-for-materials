@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "carboxylated acrylonitrile butadiene rubber",
+            "polyisoprene",
+            "poly(styrene-b-butadiene)"
+        ],
+        "Abbreviation": [
+            "NR",
+            "SBR",
+            "CNBR"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "carbon black",
+            "silica",
+            "clay"
+        ],
+        "Filler abbreviation": [
+            "N330"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.3648166848710921",
+            "0.26924627166465137",
+            "0.22470080022661287",
+            "0.2138860802157061",
+            "0.22375797750431933"
+        ],
+        "volume fraction": [
+            "0.167"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

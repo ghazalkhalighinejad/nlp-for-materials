@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(ethylene oxide)",
+            "cellulose acetone butyrate"
+        ],
+        "Abbreviation": [
+            "CAB",
+            "PEO"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "cellulose nanocrystals"
+        ],
+        "Filler abbreviation": [
+            "CNC"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.19615591880725705",
+            "0.83"
+        ],
+        "volume fraction": [
+            "0.6717903022202419",
+            "0.105"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

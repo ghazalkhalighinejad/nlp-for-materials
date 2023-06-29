@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "HiPCO single-wall carbon nanotubes",
+            "multi-wall carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "SWCNTs",
+            "MWCNTs"
+        ],
+        "Particle diameter": [
+            "0.9",
+            "35"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0001",
+            "0.0005",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.00021736914089175204",
+            "0.0003139473179730671",
+            "0.0021792374597419625",
+            "6.27801145931543e-05"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "low density polyethylene"
+        ],
+        "Abbreviation": [
+            "LDPE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Zinc Oxide"
+        ],
+        "Filler abbreviation": [
+            "ZnO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.7033852767329394",
+            "0.10053563250433085",
+            "0.20260021668472375",
+            "0.8025751072961373",
+            "0.4981605987568185",
+            "0.30113701058932607",
+            "0.4038876889848812",
+            "0.3145878394616679",
+            "0.11067271651213258",
+            "0.28017313134676214",
+            "0.6038751345532831"
+        ],
+        "volume fraction": [
+            "0.4",
+            "0.066",
+            "0.04",
+            "0.02",
+            "0.2",
+            "0.07",
+            "0.14",
+            "0.28",
+            "0.06",
+            "0.018",
+            "0.1"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

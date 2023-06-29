@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.11",
+            "0.04",
+            "0.26",
+            "0.09",
+            "0.17"
+        ],
+        "volume fraction": [
+            "0.05183364064740831",
+            "0.13450292397660818",
+            "0.08306777140429149",
+            "0.041911318080583106",
+            "0.018095987411487015"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

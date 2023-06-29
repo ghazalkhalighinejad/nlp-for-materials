@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polylactide (1.2-1.6% D-isomer lactide)"
+        ],
+        "Abbreviation": [
+            "PLA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "anatase type nanosized titanium dioxide"
+        ],
+        "Filler abbreviation": [
+            "TiO2"
+        ],
+        "Particle diameter": [
+            "20"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.05",
+            "0.02",
+            "0.01",
+            "0.1",
+            "0.005",
+            "0.15"
+        ],
+        "volume fraction": [
+            "0.0015538264458888837",
+            "0.003118453627880404",
+            "0.006280563812446065",
+            "0.03326561706449974",
+            "0.05181962025316455",
+            "0.016038197845249756"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

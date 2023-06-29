@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Diglycidyl ether of bisphenol-A epoxy resin"
+        ],
+        "Abbreviation": [
+            "DGEBA epoxy"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Barium Titanate"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3"
+        ],
+        "Particle diameter": [
+            "110.0"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.8419580419580419"
+        ],
+        "volume fraction": [
+            "0.5"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "2-(3,4-epoxycyclohexyl) ethyltrimethoxysilane",
+            "3-mercaptopropyltrimethoxysilane",
+            "Hydrogen Peroxide",
+            "3-aminopropyltrimethoxysilane",
+            "3,5-diaminobenzoic acid"
+        ],
+        "PST abbreviation": [
+            "DABA",
+            "H2O2"
+        ]
+    }
+}

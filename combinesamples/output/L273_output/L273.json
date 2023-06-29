@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(styrene-co-acrylonitrile)"
+        ],
+        "Abbreviation": [
+            "SAN"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-wall carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWNTs"
+        ],
+        "Particle diameter": [
+            "15"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.005",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.0020830118808825796",
+            "0.004178272980501393",
+            "0.008405977584059776"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

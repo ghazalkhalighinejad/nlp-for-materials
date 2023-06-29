@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "3,4-Epoxycyclohexylmethyl 3,4-epoxycyclohexanecarboxylate"
+        ],
+        "Abbreviation": [
+            "epoxy resin"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silver hexafluoroantimonate"
+        ],
+        "Filler abbreviation": [
+            "AgSbF6"
+        ],
+        "Particle diameter": [
+            "17.5"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.2",
+            "0.07",
+            "0.05",
+            "0.1",
+            "0.15"
+        ],
+        "volume fraction": [
+            "0.02663934426229508",
+            "0.04165677664372182",
+            "0.058006941001487344",
+            "0.01820242699026537",
+            "0.01279807481951433"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

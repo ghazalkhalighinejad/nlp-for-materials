@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(dimethyl siloxane)"
+        ],
+        "Abbreviation": [
+            "PDMS"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene oxide"
+        ],
+        "Filler abbreviation": [
+            "GO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.03677999206158949",
+            "0.08714138381851712",
+            "0.01874016981018009",
+            "0.05414712985432755"
+        ],
+        "volume fraction": [
+            "0.0196",
+            "0.0099",
+            "0.0291",
+            "0.0476"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

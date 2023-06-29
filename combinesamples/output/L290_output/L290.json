@@ -1,0 +1,50 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "polystyrene",
+            "polycarbonate",
+            "styrene-acrylonitrile resin"
+        ],
+        "Abbreviation": [
+            "PC",
+            "PS",
+            "PMMA",
+            "SAN24"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "montmorillonite"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01",
+            "0.10",
+            "0.05",
+            "0.03"
+        ],
+        "volume fraction": [
+            "0.05284370801612181",
+            "0.053691275167785234",
+            "0.0472972972972973",
+            "0.04858299595141701",
+            "0.047355373580151586",
+            "0.025349434918846604",
+            "0.04728710027339979",
+            "0.0049667846278015765",
+            "0.0499169058770207",
+            "0.015053418728961801",
+            "0.048834995654513096",
+            "0.05204944697462589",
+            "0.05104784035498643"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

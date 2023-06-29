@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)"
+        ],
+        "Abbreviation": [
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Silicon dioxide"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "16"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.05",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.022330097087378643",
+            "0.004364326375711575",
+            "0.008778625954198472"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

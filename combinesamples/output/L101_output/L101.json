@@ -1,0 +1,51 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol A epoxy resin",
+            "diglycidyl ether of bisphenol A"
+        ],
+        "Abbreviation": [
+            "EPR"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "barium titanate"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3"
+        ],
+        "Particle diameter": [
+            "0.1",
+            "0.7"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.7802981205443941",
+            "0.888779527559055",
+            "0.9255435976279376",
+            "0.6954177897574124",
+            "0.9411151641479938"
+        ],
+        "volume fraction": [
+            "0.75",
+            "0.4",
+            "0.6",
+            "0.7",
+            "0.3"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "phosphated ester",
+            "silane coupling agent",
+            "Silane Coupling",
+            "Phosphated Ester"
+        ],
+        "PST abbreviation": [
+            "BYK-9010",
+            "KH550"
+        ]
+    }
+}

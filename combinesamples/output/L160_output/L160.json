@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly[chlorofluoroethylene-co-trifluoroethylene-co-(vinylidene fluoride)]"
+        ],
+        "Abbreviation": [
+            "P(VDF-TrFE-CTFE)",
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "carbon nanotube"
+        ],
+        "Filler abbreviation": [
+            "MWNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02253098009763425",
+            "0.005767524401064775",
+            "0.02294792586054722",
+            "0.011514614703277238",
+            "0.028634361233480177",
+            "0.04276315789473684"
+        ],
+        "volume fraction": [
+            "0.02",
+            "0.008",
+            "0.004",
+            "0.012",
+            "0.016",
+            "0.03"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

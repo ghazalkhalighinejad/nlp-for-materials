@@ -1,0 +1,27 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "polystyrene",
+            "polypropylene"
+        ],
+        "Abbreviation": [
+            "PP",
+            "PS",
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyvinyl alcohol"
+        ],
+        "Abbreviation": [
+            "PVA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titanium dioxide"
+        ],
+        "Filler abbreviation": [
+            "nano-TiO2"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.015",
+            "0.01",
+            "0.002",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.0014353839948753233",
+            "0.0005729220920652657",
+            "0.004337228475159509",
+            "0.0028810895756940804"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

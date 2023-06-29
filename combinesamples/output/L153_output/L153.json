@@ -1,0 +1,27 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polycarbonate"
+        ],
+        "Abbreviation": [
+            "PC"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

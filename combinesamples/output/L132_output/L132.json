@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(2-vinylpyridine)"
+        ],
+        "Abbreviation": [
+            "P2VP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "silica"
+        ],
+        "Particle diameter": [
+            "30"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.5336735072091328",
+            "0.2912866522087876",
+            "0.05276188332655233",
+            "0.18775324995820628",
+            "0.41271924753633443"
+        ],
+        "volume fraction": [
+            "0.229",
+            "0.148",
+            "0.023",
+            "0.326",
+            "0.089"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

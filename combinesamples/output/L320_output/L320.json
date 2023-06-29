@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GnPs"
+        ],
+        "Particle diameter": [
+            "5"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.03",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.015182118241382245",
+            "0.02556387575503925"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

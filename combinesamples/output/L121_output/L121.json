@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Diglycidyl Ether-Bisphenol A resin"
+        ],
+        "Abbreviation": [
+            "DGEBA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Titanium dioxide"
+        ],
+        "Filler abbreviation": [
+            "TiO2"
+        ],
+        "Particle diameter": [
+            "23.0"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.4",
+            "0.01",
+            "0.2",
+            "0.3",
+            "0.05",
+            "0.1"
+        ],
+        "volume fraction": [
+            "0.10272727272727272",
+            "0.06260387811634348",
+            "0.013865030674846623",
+            "0.0026911169326030004",
+            "0.1511705685618729",
+            "0.028826530612244893"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

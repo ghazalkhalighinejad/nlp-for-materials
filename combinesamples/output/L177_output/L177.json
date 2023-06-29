@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(ethylene glycol)"
+        ],
+        "Abbreviation": [
+            "PEG"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "cellulose nanocrystal"
+        ],
+        "Filler abbreviation": [
+            "CNC"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01643955722792533",
+            "0.019165130414149346",
+            "0.0027502246016758037",
+            "0.020526387811887058",
+            "0.00823828790070117",
+            "0.013709898546750752"
+        ],
+        "volume fraction": [
+            "0.014",
+            "0.015",
+            "0.006",
+            "0.01",
+            "0.012",
+            "0.002"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

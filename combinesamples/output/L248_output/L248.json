@@ -1,0 +1,34 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "diglycidyl ether of bisphenol A"
+        ],
+        "Abbreviation": [
+            "epoxy"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "9-anthracenemethanol",
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.001"
+        ],
+        "volume fraction": [
+            "0.0009308716583355025",
+            "0.008627271339135746"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

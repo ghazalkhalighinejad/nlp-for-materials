@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy"
+        ],
+        "Abbreviation": [
+            "ER"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "alumina"
+        ],
+        "Filler abbreviation": [
+            "Al2O3"
+        ],
+        "Particle diameter": [
+            "45"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.1005815577204252",
+            "0.14423840218461248",
+            "0.18505860125036483",
+            "0.053781741439172186"
+        ],
+        "volume fraction": [
+            "0.031",
+            "0.061",
+            "0.046",
+            "0.016"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

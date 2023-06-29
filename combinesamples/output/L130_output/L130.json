@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyimide"
+        ],
+        "Abbreviation": [
+            "PI"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Octakis(dimethylsiloxyhexafluoropropylglycidyl ether)silsesquioxane"
+        ],
+        "Filler abbreviation": [
+            "OFG"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.07",
+            "0.03",
+            "0.1",
+            "0.15"
+        ],
+        "volume fraction": [
+            "0.18153710247349825",
+            "0.08642754145638068",
+            "0.1225402504472272",
+            "0.03741806263656228"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

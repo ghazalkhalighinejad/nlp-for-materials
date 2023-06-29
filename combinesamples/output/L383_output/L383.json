@@ -1,0 +1,46 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(vinylidene fluoride)"
+        ],
+        "Abbreviation": [
+            "PVDF"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoribbon",
+            "multiwalled carbon nanotube"
+        ],
+        "Filler abbreviation": [
+            "MWCNT",
+            "GNR"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.027",
+            "0.02",
+            "0.003",
+            "0.01",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.013779222789905558",
+            "0.0020557912486429465",
+            "0.015771333386495133",
+            "0.002357054987797606",
+            "0.02132350363888296",
+            "0.007868690128330379",
+            "0.0034284833776339614",
+            "0.01864337085799849",
+            "0.006867813874527355",
+            "0.003930114613623367"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

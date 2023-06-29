@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "diglycidyl ether bisphenol-F epoxy resin"
+        ],
+        "Abbreviation": [
+            "DGEBF",
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "alumina",
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GNP",
+            "Al2O3"
+        ],
+        "Particle diameter": [
+            "39"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.001"
+        ],
+        "volume fraction": [
+            "0.000511939442859835"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polybutadiene"
+        ],
+        "Abbreviation": [
+            "PBD"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Carbon black",
+            "Carbon Black"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "25.7"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.22517140058765917",
+            "0.14974411463664275",
+            "0.05533980582524271",
+            "0.010497237569060774",
+            "0.29887640449438196"
+        ],
+        "volume fraction": [
+            "0.027",
+            "0.168",
+            "0.077",
+            "0.005",
+            "0.121"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

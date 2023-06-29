@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyvinylpyrrolidone"
+        ],
+        "Abbreviation": [
+            "PVP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titania"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.75",
+            "0.5",
+            "0.25"
+        ],
+        "volume fraction": [
+            "0.20786516853932585",
+            "0.44047619047619047",
+            "0.08043478260869565"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly[(vinylidene fluoride)-co-trifluoroethylene]"
+        ],
+        "Abbreviation": [
+            "PVDF-TrFE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "barium titanate"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.18460200361844462",
+            "0.09015440064296161",
+            "0.2794910902972537"
+        ],
+        "volume fraction": [
+            "0.03",
+            "0.066",
+            "0.108"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

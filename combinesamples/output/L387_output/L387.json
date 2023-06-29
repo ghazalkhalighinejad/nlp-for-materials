@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polyethylene"
+        ],
+        "Abbreviation": [
+            "PE"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Silicon dioxide"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "14.0"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.1"
+        ],
+        "volume fraction": [
+            "0.03714170367379895"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

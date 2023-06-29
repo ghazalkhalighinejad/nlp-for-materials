@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol A based epoxy resin"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GNPs"
+        ],
+        "Particle diameter": [
+            "35"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.001",
+            "0.02",
+            "0.003",
+            "0.01",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.004965573501571694",
+            "0.009981907792126772",
+            "0.001484388080893849",
+            "0.0004942950844560526",
+            "0.0024764899293094793"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

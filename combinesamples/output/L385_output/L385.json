@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(2-vinylpyridine)"
+        ],
+        "Abbreviation": [
+            "P2VP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "octa(aminophenyl) polyhedral oligomeric silsesquioxane"
+        ],
+        "Filler abbreviation": [
+            "OAPS"
+        ],
+        "Particle diameter": [
+            "1.8"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04915102770330653",
+            "0.2466367713004484",
+            "0.1477170993733214",
+            "0.0688360450563204"
+        ],
+        "volume fraction": [
+            "0.25",
+            "0.07",
+            "0.05",
+            "0.15"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

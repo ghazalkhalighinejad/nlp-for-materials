@@ -1,0 +1,37 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol F epoxy"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWNT"
+        ],
+        "Particle diameter": [
+            "40"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.001",
+            "0.003",
+            "0.004",
+            "0.002"
+        ],
+        "volume fraction": [
+            "0.0008702147813296573",
+            "0.0013060614349723952",
+            "0.001742402047707893",
+            "0.0004348612484750993"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

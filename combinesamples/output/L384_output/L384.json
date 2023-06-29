@@ -1,0 +1,31 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "diglycidyl ether of bisphenol A"
+        ],
+        "Abbreviation": [
+            "DGEBA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Titanate"
+        ],
+        "Filler abbreviation": [
+            "TiNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.03"
+        ],
+        "volume fraction": [
+            "0.007067506150189718"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

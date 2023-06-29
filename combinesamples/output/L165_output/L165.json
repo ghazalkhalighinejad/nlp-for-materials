@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polypropylene"
+        ],
+        "Abbreviation": [
+            "PP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "calcium carbonate"
+        ],
+        "Filler abbreviation": [
+            "CaCO3"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.28202928255360393",
+            "0.11612626767604628",
+            "0.20887369726215607"
+        ],
+        "volume fraction": [
+            "0.092",
+            "0.131",
+            "0.048"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polypropylene"
+        ],
+        "Abbreviation": [
+            "PP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWCNT"
+        ],
+        "Particle diameter": [
+            "9.5"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.024591603723871425",
+            "0.009869130355454562",
+            "0.0050431717671052196",
+            "0.04860267314702309",
+            "0.014864126987628856"
+        ],
+        "volume fraction": [
+            "0.0026",
+            "0.0051",
+            "0.0256",
+            "0.0128",
+            "0.0077"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

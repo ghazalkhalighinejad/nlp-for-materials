@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly-butylene succinate"
+        ],
+        "Abbreviation": [
+            "PBS"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "titanium dioxide"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "20"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01",
+            "0.02",
+            "0.05",
+            "0.1",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.7505495094622848",
+            "0.5994947116002226",
+            "0.8587376556462002",
+            "0.9706718435831657",
+            "0.9400389444705567"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

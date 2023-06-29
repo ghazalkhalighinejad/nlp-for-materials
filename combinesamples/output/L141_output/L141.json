@@ -1,0 +1,63 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "BISPHENOL A DIGLYCIDYL ETHER"
+        ],
+        "Abbreviation": [
+            "DGEBA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Silicon dioxide"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "15"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.013958143128028656",
+            "0.018561322406668065",
+            "0.007007121703567904",
+            "0.12415340610205157",
+            "0.06328034386300063",
+            "0.04567390554981041",
+            "0.009330328850080982",
+            "0.02769455862885808",
+            "0.00467768128221422",
+            "0.18452870798252832",
+            "0.03448126301179737",
+            "0.02314006287111422",
+            "0.01164732770745429"
+        ],
+        "volume fraction": [
+            "0.028",
+            "0.002",
+            "0.015",
+            "0.01",
+            "0.02",
+            "0.008",
+            "0.006",
+            "0.057",
+            "0.003",
+            "0.004",
+            "0.012",
+            "0.088",
+            "0.005"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "Polyhexylmethacrylate",
+            "polyglycidylmethacrylate"
+        ],
+        "PST abbreviation": [
+            "PHMA",
+            "PGMA"
+        ]
+    }
+}

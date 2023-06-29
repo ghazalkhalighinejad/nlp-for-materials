@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Epoxy",
+            "poly(2-hydroxyethyl acrylate)"
+        ],
+        "Abbreviation": [
+            "PHEA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "TEOS"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.25",
+            "0.2",
+            "0.3",
+            "0.05",
+            "0.1",
+            "0.15"
+        ],
+        "volume fraction": [
+            "0.17261373773416594",
+            "0.1084945332211943",
+            "0.024980635166537573",
+            "0.07910874897792315",
+            "0.13961038961038963",
+            "0.05131264916467781"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

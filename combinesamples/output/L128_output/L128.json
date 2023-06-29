@@ -1,0 +1,33 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polydimethylsiloxane"
+        ],
+        "Abbreviation": [
+            "silicone rubber"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "SiC powder"
+        ],
+        "Filler abbreviation": [
+            "nano-SiC"
+        ],
+        "Particle diameter": [
+            "50"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.5169082125603864"
+        ],
+        "volume fraction": [
+            "0.25"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

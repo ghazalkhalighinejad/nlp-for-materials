@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Polyaminide-imide",
+            "polystyrene",
+            "Poly(methyl methacrylate)",
+            "poly-methyl methacrylate"
+        ],
+        "Abbreviation": [
+            "PMMA",
+            "PS",
+            "PAI"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "aluminum oxide",
+            "Amide-functionalized single-wall carbon nanotube",
+            "silica",
+            "graphene",
+            "single-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "GSs",
+            "alumina",
+            "a-SWNT",
+            "SWNT"
+        ],
+        "Particle diameter": [
+            "45",
+            "12"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polysiloxane"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "zirconia",
+            "titania"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [],
+        "volume fraction": []
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "1-pyrenecarboxylic acid",
+            "9-anthracenemethylphosphonic acid",
+            "Poly Dimethyl Siloxane",
+            "10-bromo-9-methyl anthracene phosphonic acid",
+            "3-[N-(70-Nitrobenz- 20-oxa-10,30-diazol-40-yl)amino]propanoic acid"
+        ],
+        "PST abbreviation": [
+            "Py",
+            "An",
+            "PDMS",
+            "AnBr",
+            "NBD"
+        ]
+    }
+}

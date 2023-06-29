@@ -1,0 +1,35 @@
+{
+    "Matrix": {
+        "Chemical name": [],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene oxide"
+        ],
+        "Filler abbreviation": [
+            "GO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0196",
+            "0.0099",
+            "0.0291",
+            "0.0654",
+            "0.0476"
+        ],
+        "volume fraction": [
+            "0.030059524841460378",
+            "0.01224479610605111",
+            "0.006161992964212476",
+            "0.04158668226033277",
+            "0.01824612206834895"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

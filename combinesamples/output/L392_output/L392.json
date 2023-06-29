@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Borealis"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "Aluminum Hydroxide Nanoparticles"
+        ],
+        "Filler abbreviation": [
+            "Nano-Al(OH)_3"
+        ],
+        "Particle diameter": [
+            "30.0"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.001",
+            "0.003",
+            "0.01",
+            "0.03",
+            "0.005"
+        ],
+        "volume fraction": [
+            "0.02248688265178646",
+            "0.0037237783938102523",
+            "0.0007439922624804704",
+            "0.0022331213246544867",
+            "0.007457121551081284"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

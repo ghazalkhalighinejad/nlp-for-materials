@@ -1,0 +1,45 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyamide",
+            "polyamide 6"
+        ],
+        "Abbreviation": [
+            "PA",
+            "PA 6"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "multi-walled carbon nanotubes"
+        ],
+        "Filler abbreviation": [
+            "MWCNT"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0625",
+            "0.025",
+            "0.075",
+            "0.2",
+            "0.0875",
+            "0.05",
+            "0.1"
+        ],
+        "volume fraction": [
+            "0.034213098729227766",
+            "0.016965584100824042",
+            "0.06958250497017893",
+            "0.05174963035978314",
+            "0.042944785276073615",
+            "0.06062855728780004",
+            "0.14403292181069957"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

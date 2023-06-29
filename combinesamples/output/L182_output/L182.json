@@ -1,0 +1,40 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyvinyl butyral"
+        ],
+        "Abbreviation": [
+            "PVB"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphene oxide",
+            "graphene nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "GNP",
+            "GO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.025",
+            "0.005",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.005626840555321835",
+            "0.0023661939438703416",
+            "0.011957578534470237",
+            "0.00474494796078101",
+            "0.00280722006506454",
+            "0.01416093170989942"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

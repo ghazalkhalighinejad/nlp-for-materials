@@ -1,0 +1,45 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polystyrene",
+            "poly(methylmethcrylate)",
+            "poly(2-vinylpyridine)",
+            "poly(ethylmethcrylate)"
+        ],
+        "Abbreviation": [
+            "PEMA",
+            "PS",
+            "PMMA",
+            "P2VP"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Silica"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": [
+            "14.0"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.03",
+            "0.08"
+        ],
+        "volume fraction": [
+            "0.03544864693780662",
+            "0.01253870325837258",
+            "0.03447074105756741",
+            "0.013243761996161228",
+            "0.012902730309895933",
+            "0.03636363636363636",
+            "0.011992158972979207",
+            "0.03300015865460892"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "bisphenol A polycarbonate",
+            "poly(ethylene oxide)"
+        ],
+        "Abbreviation": [
+            "PC",
+            "PEO"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "Br ion",
+            "bis- (trifluoromethanesulfonyl)imide",
+            "graphene nanoplatelets",
+            "F ion"
+        ],
+        "Filler abbreviation": [
+            "F-",
+            "Br-",
+            "TFSI-",
+            "GnP"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.01",
+            "0.07",
+            "0.05",
+            "0.03"
+        ],
+        "volume fraction": [
+            "0.027104555824091436",
+            "0.0053183709829679165",
+            "0.016107454619483756",
+            "0.0383157491413167"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

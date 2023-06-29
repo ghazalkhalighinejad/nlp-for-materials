@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(methyl methacrylate)",
+            "Poly(vinyl chloride)"
+        ],
+        "Abbreviation": [
+            "PVC",
+            "PMMA"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "calcium carbonate",
+            "titania"
+        ],
+        "Filler abbreviation": [
+            "TiO2",
+            "CaCO3"
+        ],
+        "Particle diameter": [
+            "44"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.075",
+            "0.025",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.026470032142181885",
+            "0.04020292907054657",
+            "0.013073116070594826"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

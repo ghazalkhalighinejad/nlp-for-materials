@@ -1,0 +1,43 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "poly(dimethyl siloxane)"
+        ],
+        "Abbreviation": [
+            "PDMS"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "barium titanate",
+            "graphene platelet"
+        ],
+        "Filler abbreviation": [
+            "BaTiO3",
+            "GPL"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.0009969242346776518",
+            "0.00969527914966471",
+            "0.6007984031936128",
+            "0.014615137038916004",
+            "0.4007989347536618",
+            "0.011711241655477054"
+        ],
+        "volume fraction": [
+            "0.0043",
+            "0.2",
+            "0.0052",
+            "0.00044",
+            "0.0065",
+            "0.1"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

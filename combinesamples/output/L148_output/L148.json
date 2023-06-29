@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "diglycidyl ether of bisphenol A"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "12.5"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.004288750569303173",
+            "0.008627271339135746"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [
+            "poly(glycidyl methacrylate)",
+            "ferrocene",
+            "oligothiophene"
+        ],
+        "PST abbreviation": [
+            "ferro",
+            "PGMA",
+            "thio"
+        ]
+    }
+}

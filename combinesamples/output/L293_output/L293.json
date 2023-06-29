@@ -1,0 +1,41 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Poly(vinyl chloride)"
+        ],
+        "Abbreviation": [
+            "PVC"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silicon dioxide"
+        ],
+        "Filler abbreviation": [
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "25"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.04",
+            "0.01",
+            "0.02",
+            "0.05",
+            "0.03"
+        ],
+        "volume fraction": [
+            "0.026676976609317612",
+            "0.01585053026532409",
+            "0.005232624274826527",
+            "0.021237303785780242",
+            "0.010515888135334907"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

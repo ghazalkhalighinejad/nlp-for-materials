@@ -1,0 +1,31 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "polyamide-6"
+        ],
+        "Abbreviation": [
+            "PA6"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "silica"
+        ],
+        "Filler abbreviation": [],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.1",
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.020999416682869927",
+            "0.04332129963898918"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

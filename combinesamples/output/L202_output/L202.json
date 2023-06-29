@@ -1,0 +1,39 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "diglycidyl ether of bisphenol F"
+        ],
+        "Abbreviation": [
+            "epoxy"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "graphite nanoplatelets"
+        ],
+        "Filler abbreviation": [
+            "EG"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.08",
+            "0.04",
+            "0.16",
+            "0.2",
+            "0.02"
+        ],
+        "volume fraction": [
+            "0.11345852895148668",
+            "0.02088434394354026",
+            "0.0426172893934384",
+            "0.01033923382712088",
+            "0.088844636770957"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

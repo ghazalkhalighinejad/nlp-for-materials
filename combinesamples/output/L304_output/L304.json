@@ -1,0 +1,36 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "solution-polymerized styrene butadiene rubber"
+        ],
+        "Abbreviation": [
+            "S-SBR"
+        ]
+    },
+    "Filler": {
+        "Filler name": [
+            "high abrasion furnace black",
+            "silica"
+        ],
+        "Filler abbreviation": [
+            "HAF",
+            "SiO2"
+        ],
+        "Particle diameter": [
+            "12"
+        ]
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.2857"
+        ],
+        "volume fraction": [
+            "0.17873368581056523",
+            "0.12250903093987836"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

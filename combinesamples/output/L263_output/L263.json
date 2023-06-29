@@ -1,0 +1,42 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "epoxy-based vinyl ester resins",
+            "epoxy",
+            "imidazolium methacrylate"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "Tetrafluoroborate",
+            "graphene nanoplatelets",
+            "bis(trifluoromethylsulfonyl)imide"
+        ],
+        "Filler abbreviation": [
+            "Tf2N\u2212",
+            "BF4\u2212",
+            "GNPs"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.02",
+            "0.005",
+            "0.01"
+        ],
+        "volume fraction": [
+            "0.00505379633200782",
+            "0.010158345437209842",
+            "0.002608812923793921",
+            "0.010511032129909231",
+            "0.0052301950685465825",
+            "0.002520601495114676"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}

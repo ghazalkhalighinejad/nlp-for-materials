@@ -1,0 +1,29 @@
+{
+    "Matrix": {
+        "Chemical name": [
+            "Araldite"
+        ],
+        "Abbreviation": []
+    },
+    "Filler": {
+        "Filler name": [
+            "Barium titanate"
+        ],
+        "Filler abbreviation": [
+            "BTO"
+        ],
+        "Particle diameter": []
+    },
+    "Filler Composition": {
+        "mass fraction": [
+            "0.05"
+        ],
+        "volume fraction": [
+            "0.010468033566917554"
+        ]
+    },
+    "Particle Surface Treatment (PST)": {
+        "PST chemical name": [],
+        "PST abbreviation": []
+    }
+}
