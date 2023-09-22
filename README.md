@@ -4,6 +4,7 @@ Related github repository:
 https://github.com/defnecirci/InsightGraph
 
 References
+
 Jablonka, Kevin Maik, et al. "14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon." Digital Discovery (2023).
 
 
